@@ -1864,7 +1864,7 @@ P.s. what's the tool you're using to create the SVGs? I've used Asciinema for th
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 35.8k out of 403m repositories</span>
+                                    <span class="gh">ranked 37.8k out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1099 stars</div>
                             </div>
@@ -2325,7 +2325,7 @@ P.s. what's the tool you're using to create the SVGs? I've used Asciinema for th
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2023, 15:38:11 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 May 2023, 16:04:27 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
