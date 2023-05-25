@@ -1847,7 +1847,7 @@ different alignment (Center, Left and Right) rather than the entire
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.1075 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.14625 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1872,7 +1872,7 @@ different alignment (Center, Left and Right) rather than the entire
                                     maintainer
                                     <span class="gh">ranked 37.6k out of 403m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 1106 stars</div>
+                                <div class="text">Maintaining a repository with 1107 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2331,7 +2331,7 @@ different alignment (Center, Left and Right) rather than the entire
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2023, 15:04:48 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 16:04:21 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
