@@ -1877,7 +1877,7 @@ One example of the weirdness of this (ergonomically) is that
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.143749999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.3375 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1900,9 +1900,9 @@ One example of the weirdness of this (ergonomically) is that
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 30.9k out of 405m repositories</span>
+                                    <span class="gh">ranked 30.8k out of 405m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 1365 stars</div>
+                                <div class="text">Maintaining a repository with 1370 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2361,7 +2361,7 @@ One example of the weirdness of this (ergonomically) is that
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2023, 00:04:15 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 May 2023, 01:04:30 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
