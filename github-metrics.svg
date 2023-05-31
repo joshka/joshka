@@ -1833,7 +1833,7 @@ Please write doc comments and unit tests (in this file) for this change.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.0975 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.175 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1858,7 +1858,7 @@ Please write doc comments and unit tests (in this file) for this change.</div>
                                     maintainer
                                     <span class="gh">ranked 31.5k out of 405m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 1338 stars</div>
+                                <div class="text">Maintaining a repository with 1340 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2317,7 +2317,7 @@ Please write doc comments and unit tests (in this file) for this change.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2023, 18:32:50 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 May 2023, 19:30:30 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
