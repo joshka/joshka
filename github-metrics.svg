@@ -1860,7 +1860,7 @@ I didn't mention in the review, but would like to see it some tests that show ho
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 23.3k out of 408m repositories</span>
+                                    <span class="gh">ranked 26.7k out of 408m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1576 stars</div>
                             </div>
@@ -2321,7 +2321,7 @@ I didn't mention in the review, but would like to see it some tests that show ho
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2023, 00:04:07 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jun 2023, 01:04:29 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
