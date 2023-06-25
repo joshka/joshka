@@ -1824,7 +1824,7 @@ Co-authored-by: Oleksiy Kovyrin &lt;oleksiy@kovyrin.net&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.76125 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.8 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1849,7 +1849,7 @@ Co-authored-by: Oleksiy Kovyrin &lt;oleksiy@kovyrin.net&gt;</div>
                                     maintainer
                                     <span class="gh">ranked 25.7k out of 411m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 1639 stars</div>
+                                <div class="text">Maintaining a repository with 1640 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2143,7 +2143,7 @@ Co-authored-by: Oleksiy Kovyrin &lt;oleksiy@kovyrin.net&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 897k out of 411m repositories</span>
+                                    <span class="gh">ranked 934k out of 411m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2308,7 +2308,7 @@ Co-authored-by: Oleksiy Kovyrin &lt;oleksiy@kovyrin.net&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2023, 03:04:32 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jun 2023, 04:04:23 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
