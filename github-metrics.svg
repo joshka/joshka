@@ -1836,7 +1836,7 @@ wrap, wrap and scroll)</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.23375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.2725 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1861,7 +1861,7 @@ wrap, wrap and scroll)</div>
                                     maintainer
                                     <span class="gh">ranked 25.2k out of 412m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 1677 stars</div>
+                                <div class="text">Maintaining a repository with 1678 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2320,7 +2320,7 @@ wrap, wrap and scroll)</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2023, 06:07:04 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Jul 2023, 07:04:07 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
