@@ -1936,7 +1936,7 @@ Does specifying a specific nightly mean that we need to update that version regu
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 25k out of 412m repositories</span>
+                                    <span class="gh">ranked 23.4k out of 412m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1690 stars</div>
                             </div>
@@ -2397,7 +2397,7 @@ Does specifying a specific nightly mean that we need to update that version regu
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2023, 12:03:55 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Jul 2023, 13:04:38 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
