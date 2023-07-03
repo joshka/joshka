@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2738" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2758" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.post{align-items:flex-start}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.string{color:#2777aa}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            766 issue comments
+                            767 issue comments
                         </div>
                     </section>
                     <section>
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 9 users
+                            Following 10 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -465,12 +465,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 27 commits)</small>
+                    <small class="h-details">(computed from last 28 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.9 characters per line of code written</li>
+                        <li>Has approximately 42.8 characters per line of code written</li>
                         <li>Mostly pushes code around 21:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -1549,10 +1549,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    9 followed
+                    10 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACBElEQVR4nGNgGAWjYOgCZhYGbQ6GUEYGYUw5JgYldoYAZgZVBgZGogzj4uKqqqrSV+3hZWjjYijAoYqFh6Gel6HN3X5yeno6MzMzPhOtra3v3r37//9/Ce5uXoY2dgZfXCo5GBJ4GdqsDeb+////zJkz6urq2NVlZGT8+vXr////nz794GVo42VoY2WwwmUoO4MvL0ObsvjE/2Dw6dMnHx8fdEV5eXkQ6f///79+9QVmqDkuQ9kYvHgZ2mQF++C6fv365e/vj1Dh4eHx9+9fuPTnzz8hhrIxeOL2fgwvQ5uqJNSlEPDlyxdtbW2oitWrVyPL/f//X1G0HxxRxTjilwMSUS5WC9E0tra2QpVkZmaiycWGroM51hXDREYOhgiIbGPVfjSNLi4uMHs5OK5evYosd2DvfYg2XoY2DoZoZgYFUNwwcDIzqHEypEHEhVg77t15h6xr586dKLYrKSndu3cPWUVqzEa4uVhRe8MhZPWnT58WEhJC95WgoODUqVN//PgBUfTzx5+8tG18jFiME2LtaEMy8ePHjw0NDRwcHLhilUFMTCwvL2/79u3v3oG8dvP6m46mw5GBa9xsFrnbLo4LWzep58STxx///////PnztWvXJiUl8fHxMRAPpKWlbWxsgoKCEhISMjMzMzIy4uLiAgICLCwsxMTESDBoFIwCBsoAAPIIUlZ4KoqPAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgUBAwcE/8QAMRAAAgEDAwIDAw0AAAAAAAAAAQMCBAURACExEhMGIkFRYYEHFRYjJDJCcZGhsdHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAlEQACAQMDAgcAAAAAAAAAAAABAgMABBEFIfASEzFRYXGRsfH/2gAMAwEAAhEDEQA/AOWUiZRYrYwLN9hn449ulnharfGpqO5bp1o7fXJ8YkziMfxrw/NlR2HsZKEx28RZ0nEODkka2WlV0t9tcKKoABA7jFsxnI339mNFW132JQyNg886pbyNbmAxzRgjHPCltvqrqqsWbZaXhjYliWPTwB+MA/7nTH6eus32Y1apZ82ciPu4z7tcDvlzuzgHV1zZPY9LZOnM52+PGhz7nIun1vEpA4Jwd9UDarJNvIAeelSB02OBQsB6R8/dNbLV05ubIskCGAhnSwzG3Pkx+2mfhtCLexkbk89pwM+2xeJgnYDH5alIXGXydU95nESfU9UGKIHbIEiOOR+uqFihTjvLlSIkJRO5B6h9X6EHOgC4WRWxvVGbYvEy9VVXSsV4aUwTREU4MJRL1rIJG20iM8emdBa3wKqb5TKJnqJPkAmPvH11d8XyjT32FPBSSvbmAzyecc/HOslSDGBlTqkenk5/vSIukI3WhTpzxnHcJ9/yv//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
@@ -1574,6 +1575,94 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#277 docs: improve CONTRIBUTING.md</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by joshka in <span class="repo">tui-rs-revival/ratatui</span></div>
+                                    <div class="comment">All mentioned feedback incorporated.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">joshka/ratatui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">docs-contributing</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6284706</div>
+                                        <div class="message">docs: improve CONTRIBUTING.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">joshka/ratatui</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">docs-contributing</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#06fa202</div>
+                                        <div class="message">docs: improve CONTRIBUTING.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5d387c</div>
+                                        <div class="message">style: fix formatting (#292)
+
+There are a couple of small formatting changes in the current nightly</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f4413b</div>
+                                        <div class="message">feat: stylization shorthands (#283)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83d3ec7</div>
+                                        <div class="message">fix(clippy): ununsed_mut lint for layout (#285)
+
+This lint is slightly more agressive in +nightly than it is in stable.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf8eda0</div>
+                                        <div class="message">test(paragraph): simplify paragraph benchmarks (#282)
+
+Reduce benchmarks from 60 calls to 18. Now 3 different line counts
+(64, 2048, 65535) * 6 different tests (new, render, scroll half / full,
+wrap, wrap and scroll)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bdb97c</div>
+                                        <div class="message">ci(makefile): split CI jobs (#278)
+
+- Split CI into build, clippy and test.
+- Run format on nightly only due to the settings being unstable</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1631,90 +1720,6 @@ wrap, wrap and scroll)</div>
                                     <div class="content">
                                         Starred
                                         <span class="repo">paul-gauthier/aider</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#293 Conslidated wrapping design</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by joshka in <span class="repo">tui-rs-revival/ratatui</span></div>
-                                    <div class="comment">
-                                        That change to trim is on the PR for wrapping, so It hasn't changed yet. I'm not sure it should be changed given the rationale for it existing (https://github.com/fdehau/tui-rs/pull/327). Briefly stated, the trim option was introduced in order to make it possible to maintain the indentation of lines that will be wrapped to support wrapping e.g.:
-                                        <code class="language-multiline" xml:space="preserve">First line
-  - no wrap
-<span class="token trimmed">(1 more line was trimmed)</span></code>
-                                        to:
-                                        <code class="language-multiline" xml:space="preserve">First line
-  - no wrap
-<span class="token trimmed">(2 more lines were trimmed)</span></code>
-                                        instead of:
-                                        <code class="language-multiline" xml:space="preserve">First line
-  - no wrap
-<span class="token trimmed">(2 more lines were trimmed)</span></code>
-                                        i.e. it should only effect lines that are wrapped. Not those that don't. I'd suggest that there's a better way of specifying that behavior that would incorporate the indentation as some enum that could have values like: WrapToFirstColumn, WrapToFirstNonWhitespaceColumn, WrapWithPrefix("     |"), WrapWithFunction(fn(Line)-&gt;Span) etc.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#294 barchart: allow to add multiple bars from different datasets</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by karthago1 in <span class="repo">tui-rs-revival/ratatui</span></div>
-                                    <div class="comment">
-                                        <i>this is a great idea. this will make the implementation easier. but this will make it a little bit harder for the user, since 90 % of the use cases will have a dataset which contains values belonging to different Groups and the user will have to map the data. but I think this is worth it.</i>
-                                        I think this is one of those cases where both ways make sense, so you can't please both. I'd have to see non synthetic examples of why people are using this one way or another to understand. That said, I think the way I've suggested is the more flexible approach (please correct me on that if I'm wrong though).
-                                        <i>Company X, and Company Y should be shown on the bar right? so I could call for example:
-Probably under each bar (while the group label sits under the entire group)</i>
-                                        <i>there is another small problem with the bar labels. for my use case the labels can be bigger than the bar width and I need them to overlap with the other bars, if it is necessary. In my private branch I implemented this already. but I will post some images describing the problem and maybe you can check the user API again. maybe you will have more great ideas</i>
-                                        Yeah, I saw that problem too when playing with it. If perhaps we supported a horizontal barchart then long labels might make more sense. I think right now that there's no way to turn off bar labels and only show them in the legend. So perhaps spec out those requirements a little. E.g.:
-Each bar can have a label for the value which can be generated based on the value by the
-                                        <code>format</code>
-                                        function. If the resulting string is too wide it is ... (truncated, not displayed, wrapped, ?). It can be styled with the default style being...
-Each bar can have a label that identifies the contents, it can be styled... with the default style being..., if the contents are too wide for the space then ..., 
-Each group can have a label, ...
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#293 Conslidated wrapping design</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by joshka in <span class="repo">tui-rs-revival/ratatui</span></div>
-                                    <div class="comment">
-                                        <i>My problem is that I have no way of knowing how much ratatui actually decided to show on screen, or where it wrapped.</i>
-                                        One approach of solving that is to track both the first (real) line scrolled plus the offset of the line, so the rendering of lines becomes:
-                                        <code class="language-multiline language-rust" xml:space="preserve">lines<span class="token punctuation">.</span><span class="token function">iter</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-  <span class="token punctuation">.</span><span class="token function">skip</span><span class="token punctuation">(</span>index<span class="token punctuation">)</span>
-<span class="token trimmed">(5 more lines were trimmed)</span></code>
-                                        By using a stateful widget rendering, then we can update the scroll position for situations like where we want to scroll up from (index = 100, offset = 0) -&gt; (index = 100, offset = -1) which will be the same as (index = 99, offset = number_of_wrapped_lines_in_line_99_which_only_render_knows)
                                     </div>
                                 </div>
                             </section>
@@ -2274,7 +2279,7 @@ Each group can have a label, ...
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.231155778894473 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.010050251256281 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2292,7 +2297,7 @@ Each group can have a label, ...
                                     <span class="prefix"></span>
                                     Follower
                                 </div>
-                                <div class="text">Following 9 users</div>
+                                <div class="text">Following 10 users</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
@@ -2372,7 +2377,7 @@ Each group can have a label, ...
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2023, 15:04:40 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Jul 2023, 16:05:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
