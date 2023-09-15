@@ -1840,7 +1840,7 @@ prior to any calls to `layout::split()` as the cache is wrapped in a `OnceLock`<
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.70625 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.74499999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1863,9 +1863,9 @@ prior to any calls to `layout::split()` as the cache is wrapped in a `OnceLock`<
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.5k out of 51m repositories</span>
+                                    <span class="gh">ranked 12.5k out of 54.6m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 3315 stars</div>
+                                <div class="text">Maintaining a repository with 3316 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2159,7 +2159,7 @@ prior to any calls to `layout::split()` as the cache is wrapped in a `OnceLock`<
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 902k out of 51m repositories</span>
+                                    <span class="gh">ranked 952k out of 54.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2324,7 +2324,7 @@ prior to any calls to `layout::split()` as the cache is wrapped in a `OnceLock`<
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2023, 17:12:48 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2023, 18:25:42 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
