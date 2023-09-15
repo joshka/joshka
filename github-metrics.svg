@@ -1863,7 +1863,7 @@ prior to any calls to `layout::split()` as the cache is wrapped in a `OnceLock`<
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.5k out of 54.6m repositories</span>
+                                    <span class="gh">ranked 12.5k out of 46.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3316 stars</div>
                             </div>
@@ -2159,7 +2159,7 @@ prior to any calls to `layout::split()` as the cache is wrapped in a `OnceLock`<
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 952k out of 54.6m repositories</span>
+                                    <span class="gh">ranked 920k out of 46.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2324,7 +2324,7 @@ prior to any calls to `layout::split()` as the cache is wrapped in a `OnceLock`<
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2023, 18:25:42 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2023, 19:10:53 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
