@@ -1854,7 +1854,7 @@ I'll see if I can get a few more good first issue friendly issues written up.</d
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.4k out of 58.3m repositories</span>
+                                    <span class="gh">ranked 12.4k out of 49.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3329 stars</div>
                             </div>
@@ -2150,7 +2150,7 @@ I'll see if I can get a few more good first issue friendly issues written up.</d
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 952k out of 58.3m repositories</span>
+                                    <span class="gh">ranked 952k out of 49.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2315,7 +2315,7 @@ I'll see if I can get a few more good first issue friendly issues written up.</d
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Sept 2023, 00:04:49 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Sept 2023, 01:04:28 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
