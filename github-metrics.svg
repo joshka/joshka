@@ -1927,7 +1927,7 @@ Move xxx/mod.rs to xxx.rs</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.4k out of 53.3m repositories</span>
+                                    <span class="gh">ranked 12.4k out of 49.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3347 stars</div>
                             </div>
@@ -2275,7 +2275,7 @@ Move xxx/mod.rs to xxx.rs</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 953k out of 53.3m repositories</span>
+                                    <span class="gh">ranked 940k out of 49.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2388,7 +2388,7 @@ Move xxx/mod.rs to xxx.rs</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Sept 2023, 20:04:32 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Sept 2023, 21:04:49 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
