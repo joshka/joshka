@@ -1867,7 +1867,7 @@ removed.
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 152k out of 117m users</span>
+                                    <span class="gh">ranked 152k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 105 public repositories</div>
                             </div>
@@ -1905,7 +1905,7 @@ removed.
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.3k out of 51.3m repositories</span>
+                                    <span class="gh">ranked 12.3k out of 50.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3368 stars</div>
                             </div>
@@ -2207,7 +2207,7 @@ removed.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 540k out of 117m users</span>
+                                    <span class="gh">ranked 540k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 23 users</div>
                             </div>
@@ -2253,7 +2253,7 @@ removed.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 953k out of 51.3m repositories</span>
+                                    <span class="gh">ranked 953k out of 50.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2366,7 +2366,7 @@ removed.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2023, 11:04:52 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2023, 12:04:11 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
