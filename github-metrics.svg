@@ -1914,7 +1914,7 @@ replacing the current demo example.
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.3k out of 53m repositories</span>
+                                    <span class="gh">ranked 12.3k out of 45.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3375 stars</div>
                             </div>
@@ -2262,7 +2262,7 @@ replacing the current demo example.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 953k out of 53m repositories</span>
+                                    <span class="gh">ranked 937k out of 45.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2375,7 +2375,7 @@ replacing the current demo example.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2023, 03:04:29 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2023, 04:04:29 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
