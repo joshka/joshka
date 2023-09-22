@@ -1834,7 +1834,7 @@ docs: use new demo image</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.845 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.88374999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1857,9 +1857,9 @@ docs: use new demo image</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12.2k out of 43.4m repositories</span>
+                                    <span class="gh">ranked 12.2k out of 52.6m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 3396 stars</div>
+                                <div class="text">Maintaining a repository with 3397 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2205,7 +2205,7 @@ docs: use new demo image</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 954k out of 43.4m repositories</span>
+                                    <span class="gh">ranked 954k out of 52.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2318,7 +2318,7 @@ docs: use new demo image</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Sept 2023, 20:04:35 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Sept 2023, 21:04:45 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
