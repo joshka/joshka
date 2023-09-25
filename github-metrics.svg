@@ -1910,7 +1910,7 @@ A small heads up - I just slapped together a refactor in https://github.com/rata
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 12k out of 45.4m repositories</span>
+                                    <span class="gh">ranked 11.2k out of 40.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3446 stars</div>
                             </div>
@@ -2258,7 +2258,7 @@ A small heads up - I just slapped together a refactor in https://github.com/rata
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 954k out of 45.4m repositories</span>
+                                    <span class="gh">ranked 954k out of 40.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2371,7 +2371,7 @@ A small heads up - I just slapped together a refactor in https://github.com/rata
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2023, 08:05:08 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2023, 09:04:53 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
