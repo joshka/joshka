@@ -1858,7 +1858,7 @@ Simple character based text wrapping can be achieved with a fairly small amount 
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 147k out of 120m users</span>
+                                    <span class="gh">ranked 138k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 107 public repositories</div>
                             </div>
@@ -1896,7 +1896,7 @@ Simple character based text wrapping can be achieved with a fairly small amount 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 11.9k out of 48m repositories</span>
+                                    <span class="gh">ranked 11.9k out of 48.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3465 stars</div>
                             </div>
@@ -2244,7 +2244,7 @@ Simple character based text wrapping can be achieved with a fairly small amount 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 955k out of 48m repositories</span>
+                                    <span class="gh">ranked 907k out of 48.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2357,7 +2357,7 @@ Simple character based text wrapping can be achieved with a fairly small amount 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2023, 08:04:48 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2023, 09:04:52 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
