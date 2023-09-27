@@ -1873,7 +1873,7 @@ Simple character based text wrapping can be achieved with a fairly small amount 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.48 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.51875 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1896,9 +1896,9 @@ Simple character based text wrapping can be achieved with a fairly small amount 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 11.9k out of 47.5m repositories</span>
+                                    <span class="gh">ranked 11.9k out of 48m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 3464 stars</div>
+                                <div class="text">Maintaining a repository with 3465 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2244,7 +2244,7 @@ Simple character based text wrapping can be achieved with a fairly small amount 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 955k out of 47.5m repositories</span>
+                                    <span class="gh">ranked 955k out of 48m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2357,7 +2357,7 @@ Simple character based text wrapping can be achieved with a fairly small amount 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2023, 07:04:29 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2023, 08:04:48 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
