@@ -1836,7 +1836,7 @@ Let's wait for a second review by one of the other maintainers on this though.</
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.17750000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.21625 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1859,9 +1859,9 @@ Let's wait for a second review by one of the other maintainers on this though.</
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 11.9k out of 49.7m repositories</span>
+                                    <span class="gh">ranked 11.8k out of 50.3m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 3482 stars</div>
+                                <div class="text">Maintaining a repository with 3483 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2207,7 +2207,7 @@ Let's wait for a second review by one of the other maintainers on this though.</
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 955k out of 49.7m repositories</span>
+                                    <span class="gh">ranked 955k out of 50.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2320,7 +2320,7 @@ Let's wait for a second review by one of the other maintainers on this though.</
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2023, 19:10:14 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2023, 20:04:31 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
