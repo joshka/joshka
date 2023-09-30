@@ -1904,7 +1904,7 @@ For character boundary wrapping, I think there's situations where you want to ke
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 11.8k out of 56m repositories</span>
+                                    <span class="gh">ranked 11.8k out of 53.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3495 stars</div>
                             </div>
@@ -2252,7 +2252,7 @@ For character boundary wrapping, I think there's situations where you want to ke
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 955k out of 56m repositories</span>
+                                    <span class="gh">ranked 955k out of 53.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2365,7 +2365,7 @@ For character boundary wrapping, I think there's situations where you want to ke
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2023, 18:24:14 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2023, 19:08:52 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
