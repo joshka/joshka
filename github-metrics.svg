@@ -1876,7 +1876,7 @@ ANSI Escape sequences for color and style that are stored in the cell's symbol a
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 11.5k out of 52.4m repositories</span>
+                                    <span class="gh">ranked 11.5k out of 58.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3585 stars</div>
                             </div>
@@ -2224,7 +2224,7 @@ ANSI Escape sequences for color and style that are stored in the cell's symbol a
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 957k out of 52.4m repositories</span>
+                                    <span class="gh">ranked 957k out of 58.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2337,7 +2337,7 @@ ANSI Escape sequences for color and style that are stored in the cell's symbol a
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2023, 12:04:28 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2023, 13:04:45 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
