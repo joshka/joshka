@@ -1824,7 +1824,7 @@ One crate I'd consider looking at for some inspiration (for this issue) is https
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 136k out of 121m users</span>
+                                    <span class="gh">ranked 145k out of 121m users</span>
                                 </div>
                                 <div class="text">Published 108 public repositories</div>
                             </div>
@@ -1862,7 +1862,7 @@ One crate I'd consider looking at for some inspiration (for this issue) is https
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 11.5k out of 52.2m repositories</span>
+                                    <span class="gh">ranked 11.5k out of 56.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3592 stars</div>
                             </div>
@@ -2210,7 +2210,7 @@ One crate I'd consider looking at for some inspiration (for this issue) is https
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 958k out of 52.2m repositories</span>
+                                    <span class="gh">ranked 958k out of 56.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2323,7 +2323,7 @@ One crate I'd consider looking at for some inspiration (for this issue) is https
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2023, 12:04:08 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2023, 13:04:25 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
