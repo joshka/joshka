@@ -1845,7 +1845,7 @@ only y-m-d in archive dates, and use slightly less bright white text</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 145k out of 121m users</span>
+                                    <span class="gh">ranked 145k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 108 public repositories</div>
                             </div>
@@ -1860,7 +1860,7 @@ only y-m-d in archive dates, and use slightly less bright white text</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="100.47875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="100.5175 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1883,9 +1883,9 @@ only y-m-d in archive dates, and use slightly less bright white text</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 11.5k out of 49.8m repositories</span>
+                                    <span class="gh">ranked 11.5k out of 48.8m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 3593 stars</div>
+                                <div class="text">Maintaining a repository with 3594 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2185,7 +2185,7 @@ only y-m-d in archive dates, and use slightly less bright white text</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 476k out of 121m users</span>
+                                    <span class="gh">ranked 476k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 26 users</div>
                             </div>
@@ -2231,7 +2231,7 @@ only y-m-d in archive dates, and use slightly less bright white text</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 911k out of 49.8m repositories</span>
+                                    <span class="gh">ranked 958k out of 48.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2344,7 +2344,7 @@ only y-m-d in archive dates, and use slightly less bright white text</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2023, 07:04:50 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2023, 08:04:43 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
