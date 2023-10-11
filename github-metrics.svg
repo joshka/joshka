@@ -1891,7 +1891,7 @@ We can also achieve that by using a workspace cargo.toml file though with those 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 11.4k out of 55m repositories</span>
+                                    <span class="gh">ranked 11.4k out of 43.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3612 stars</div>
                             </div>
@@ -2239,7 +2239,7 @@ We can also achieve that by using a workspace cargo.toml file though with those 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 958k out of 55m repositories</span>
+                                    <span class="gh">ranked 958k out of 43.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2352,7 +2352,7 @@ We can also achieve that by using a workspace cargo.toml file though with those 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2023, 03:04:57 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Oct 2023, 04:04:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
