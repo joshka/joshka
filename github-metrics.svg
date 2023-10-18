@@ -1908,7 +1908,7 @@ error[E0277]: the trait bound `Vec: From&lt;&amp;[layout::Constraint; 2]&gt;` is
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 10.9k out of 46.7m repositories</span>
+                                    <span class="gh">ranked 10.9k out of 43.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3763 stars</div>
                             </div>
@@ -2210,7 +2210,7 @@ error[E0277]: the trait bound `Vec: From&lt;&amp;[layout::Constraint; 2]&gt;` is
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 478k out of 122m users</span>
+                                    <span class="gh">ranked 479k out of 122m users</span>
                                 </div>
                                 <div class="text">Followed by 26 users</div>
                             </div>
@@ -2256,7 +2256,7 @@ error[E0277]: the trait bound `Vec: From&lt;&amp;[layout::Constraint; 2]&gt;` is
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 960k out of 46.7m repositories</span>
+                                    <span class="gh">ranked 960k out of 43.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2369,7 +2369,7 @@ error[E0277]: the trait bound `Vec: From&lt;&amp;[layout::Constraint; 2]&gt;` is
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2023, 06:06:32 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2023, 07:04:34 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
