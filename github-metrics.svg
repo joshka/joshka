@@ -1887,7 +1887,7 @@ Also note @rhysd's comment on https://github.com/rhysd/tui-textarea/issues/34 th
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 10.8k out of 41.2m repositories</span>
+                                    <span class="gh">ranked 10.8k out of 45.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3777 stars</div>
                             </div>
@@ -2235,7 +2235,7 @@ Also note @rhysd's comment on https://github.com/rhysd/tui-textarea/issues/34 th
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 960k out of 41.2m repositories</span>
+                                    <span class="gh">ranked 960k out of 45.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2348,7 +2348,7 @@ Also note @rhysd's comment on https://github.com/rhysd/tui-textarea/issues/34 th
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2023, 01:05:17 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2023, 02:04:47 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
