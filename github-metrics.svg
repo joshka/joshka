@@ -1822,7 +1822,7 @@ docs(site): add blog section and seed with Orhun's posts</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 131k out of 122m users</span>
+                                    <span class="gh">ranked 131k out of 121m users</span>
                                 </div>
                                 <div class="text">Published 114 public repositories</div>
                             </div>
@@ -1892,7 +1892,7 @@ docs(site): add blog section and seed with Orhun's posts</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 10.8k out of 46.3m repositories</span>
+                                    <span class="gh">ranked 10.8k out of 44.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3785 stars</div>
                             </div>
@@ -2194,7 +2194,7 @@ docs(site): add blog section and seed with Orhun's posts</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 459k out of 122m users</span>
+                                    <span class="gh">ranked 459k out of 121m users</span>
                                 </div>
                                 <div class="text">Followed by 27 users</div>
                             </div>
@@ -2240,7 +2240,7 @@ docs(site): add blog section and seed with Orhun's posts</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 960k out of 46.3m repositories</span>
+                                    <span class="gh">ranked 954k out of 44.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2353,7 +2353,7 @@ docs(site): add blog section and seed with Orhun's posts</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2023, 07:04:32 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2023, 08:04:45 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
