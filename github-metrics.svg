@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2749" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2676" class="">
     <defs>
         <style/>
     </defs>
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 18 users
+                            Following 19 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1562,10 +1562,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    18 followed
+                    19 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAACUUlEQVR4nGNgIAUwMjEyGqQVMCWcfs2UcOo1o0FqAUiMgSZARFuXKXD1Uea0a/+RMUgMJEc9i5jZ2RjNS5uYUi7/RLcMbmnK5V+M5iVNILWUWSaqq88Uuvk8LoswLA7ddB6kh0xflTTi8xUe3/5kNCtuJN63EiZmTKFbLpJqEaZvt1xkkDA2w20RKw8Xo019P1Pq1T+EDDt6++v/x+9+/V98/D1+S1Ov/mG0qesHmY1qmbiRCVPU3jvEuh5kGQjsufaFON9G7b3DIG5oArGMiYWZKebwE1KCC+SzI7e/Em0hM8jSmMNPGJhYmRkYuMWlcSly6L7/P3XhU6y4bPWL/9ee/sAQd+i+j9NSkF0gC2VwKfjx++9/UsGP33/xWSiD10JyAfOQtfD3n///b774gSH+4euf/4/e/qLMwnuvf8INOPPg2/8dVz7/j5r1+L9W3R24+NZLn/4fvfP1v3nrvf9+kx/Cxe+9/km6hbC8BgIT97wBi0mV3Px/5el3uHj20mdgcaOmu/9ffvwNF3/87hdlFoLArEPv/t94jhqcf/7+/9+x/fX/t1/+oIg/JsfCvOXP/5ML8pY/x2shzoxPLmDGm/GZWHEWbc/eowYrMeDZh194ijYWZmjhbYi18ObLuf5fvvwWSZgv5zqOwtvIBEv1VEdU9UQsZgJXT/X9DGzo1RNKBWxsxhRGrQrYBE8FjN7EMCsmv4lhXkJCEwOjEbWJhEbUZjIbUei+NS8BNRN/4fWVRSkVmokMSIBuDWFkAG7qpxaAmvmg5j6o2U9qUx8AExGqhMWan2YAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAADkElEQVR4nMWW+UsUYRjHB/pLLNIOu+xaa7cyNVNzUym12i3LMi2LMvIoy9LSkC6lImKjiNgOqIiIgghJo4si6rd+iIiZnZ09Zvbw2KXZ5RvPOxalO6udu/Cyw/M87/OZ53mf55mXA8DFXWqEC/W+mq0c6GiV8qzdfIpJ5JMMYbZSTCLJSEc2ZDuaP11FdGBwXNBmt4rp5rd8kgFjWWRLe2jvLwHDb96niMbCMYNGgI2Fb8nHmIB91+/m8clG3+/C+G8r2egjX3GBDJZkiPwxLOn7igyH/pRGPtno/4swDEXq/zG93wvkT85sLGcaHSokBgza7JZ4G4KXb0L9xENcuBLRQBBy3REEzlyCKkpwGAoQkX1QWk7GhQZtdosGVCPcaKXvazmFgfuPIaTlIPT0FdzluyA3tGHwUQ+EmdkIPXkBb3XjqC0DNcJxod6XaTGNJi6E0nycRSXlr4e3pgn8+HQoTR0sKueyNZB3H2K2SmMbRFMRnMvXQd7bqgslFkdTIpZSKt4M+vk7bSySaCjMHDLZqQvov/MAUFU4s8qYLGizo//WfSAahWNObkwgsTgpz9Kt90au0ioIqRlwzM2FlGfVZKsqIUxeDMesHEgFGzRZUQWE1KVwzF4OybxRN0JicUOzcYTSmVmCiNsLuf4ogrZr+PLhI0vpcDtHWg5Uh5Ol3991EepnAcL0rNjQFJPIDQ3ikY7m5yP8+h08FXu0onnYHdOJMGUJQs9ew1PdALmxHaGeF+AnLdKLMqwLFGZkQUwvAD9hAYQZ2XDMWgZxgZn9U2VStJRuSi/Z8skmLdWGFfGqNayb0r5LN6A0tiNw9jL6rt6Ce+12hJ6/gaukCv0378Ft3cn6k9JILeKuqEWf/Q6UQyf0oZRSvaIhIDV34PwVBmSyq7e1vjzSyVJMeoJ6ttZDOXicgf2dNvasWzR6bUHF4u84B3nPYcj72jXZvmPa+c7Lh6/1NFyrK1mkUuEmOLNK4TvahUDXRda3um2h1/jO7DI2PcRFxVAa2uDZsheSuVx7U3O5pq/Zr8EySyldcJVVw7ujibWHbuPrjTapqAKeqgZW9u4125gTckY6AlFkwvRMeGsPw72uBsK0THi21mn6Wm0CxRxtesNbyrcyIDU/vTmBnbkWeHc1M6DLsgPe3c1sudZuhzA1g52hl3TFm+MM70R8nvC/P8BIxBUDibhEIRHXRCTiIvwvr/pfAdn/vWIoOKaFAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgj/xAAoEAACAgEDAwMEAwAAAAAAAAABAwIEEQAFEgYTITFBUQcUYZFSYqH/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAD/xAAgEQACAgICAgMAAAAAAAAAAAABAgADBBEFEgZhMUGR/9oADAMBAAIRAxEAPwC1msKXNjPEIAkn4GshUrdS9V12XdsC6u3+Snm4rLY/IwCf3jW63ejO5tF2sk8GuQxcZH2JBA1k9uZYpVl7WzqavTawJhVQpYyBkgj5PoBp8nc4ACmU8EVpLWAAt7AOv2UOx71d2zeYbZuoYOchAxb5MMnAIPuNIfZ/Gjn6j7Q0W67k2fur8CBGS48Mk+w0p01unURJ8OLpQiWR/jLHkafF5DdCCZvIWS5ltChWPzr79yzWBg8ho16hlS2PqJ4sPaGtj3U9rIIiSfGRIYGQdJdSIczE/T8aFvrFXijrBUoSmSxEc8jnHk+mpMwhl6wYKlD2kzpgz3rq6pOb+3CuS4DGeQHjH+6WRH+w0AbdafTu1nVWyU6LOAnE+QMa6Boq7lCsxjJynNYlInHk/rSxWFa61BmIbX3uf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAChklEQVR4nK3VMWvyQBgH8HydAx2kMcghdjhQMINO3SK4ZHAodZAMLhlucHHI4OJgwIJjCwUli0OGG5Q2lCo4vAgBA05BRFDQ4V7ItUFjWm31vyXH80ueu8uFA6eCEGo0GvQrzWbzZAn38/Dt7e1kMvFFSqlt2xehgiAMBoN98VI0kUi8v78HxItQCGGg6yugpmmGipRS13VFUbwySikdj8d/QZ+fn39AN5tNqVQCAMRisUwmU6/XzcNwoWg8HsdfcV03gC4Wi0aj8fj42O/3Q5/K/dwIAEAURcdx/ILlcqnr+tBLqIgxPo0CAJLJpKqqlNL5fN7pdKbTKe9lNpv9EYUQyl4wxq1Wa71e73a7ppftdhsQTdMUBOEEWi6XR6MRPSOr1arf70MIT3ymkiStVqtzRErpw8ODX8hdBb2/v98v5L4TRVG0bbvT6azXa0rpPy/HnOM4mUwmUMuFirlcbjQaybJMCMEYy7KMEApFQ48C7vhWoVAghIiiyPN8NpslhBQKhUqlEtr4WagkSZZlIYQAABhjVVURQpZlaZr2R1SSpMlkAiFkn6lhGE9PT/5JqGnacrn8HSp578g2WjQaZcdErVZjoxBCy7La7XbgKNhut7aXl5eXWCx2gOZyOUII69qPIAiRSMS/RAgRQtrt9nf7zN8GHNs9Hx8fx0cvm9P9O2x+dV0PcIZhHKD5fD5UZOn1eoFtCCF8fX1lP23HcVghxvgAXSwWd3d3oSIA4ObmZn8GWNLp9Nvbm67r3W7X7+kArVarhmGw9Tk/bN0URWGz57rufD5PpVKfKABAVVXDMHie/5XL1k1RFPbfLRaL/tDn6ler1V6v9yvUXzdN04bD4f47/Qf+WTGhfLtS3wAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
@@ -1596,6 +1597,19 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">DioxusLabs/taffy</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1665,26 +1679,6 @@ https://docs.rs/ratatui/0.23.1-alpha.7/ratatui/style/trait.Stylize.html</div>
                                     <div>opened by orhun in <span class="repo">ratatui-org/ratatui-book</span></div>
                                     <div class="comment">
                                         <code class="language-suggestion">```rust</code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#127 docs: Add highlights for ratatui 0.24</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by orhun in <span class="repo">ratatui-org/ratatui-book</span></div>
-                                    <div class="comment">
-                                        Nit
-                                        <code class="language-suggestion">One thing to note here is that multi-line content is converted to multiple spans with the new lines removed.</code>
                                     </div>
                                 </div>
                             </section>
@@ -1811,7 +1805,7 @@ https://docs.rs/ratatui/0.23.1-alpha.7/ratatui/style/trait.Stylize.html</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 127k out of 115m users</span>
+                                    <span class="gh">ranked 127k out of 122m users</span>
                                 </div>
                                 <div class="text">Published 116 public repositories</div>
                             </div>
@@ -1881,7 +1875,7 @@ https://docs.rs/ratatui/0.23.1-alpha.7/ratatui/style/trait.Stylize.html</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 10.7k out of 92.5m repositories</span>
+                                    <span class="gh">ranked 10.7k out of 89.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3831 stars</div>
                             </div>
@@ -2183,7 +2177,7 @@ https://docs.rs/ratatui/0.23.1-alpha.7/ratatui/style/trait.Stylize.html</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 460k out of 115m users</span>
+                                    <span class="gh">ranked 460k out of 122m users</span>
                                 </div>
                                 <div class="text">Followed by 27 users</div>
                             </div>
@@ -2229,7 +2223,7 @@ https://docs.rs/ratatui/0.23.1-alpha.7/ratatui/style/trait.Stylize.html</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 971k out of 92.5m repositories</span>
+                                    <span class="gh">ranked 971k out of 89.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2244,7 +2238,7 @@ https://docs.rs/ratatui/0.23.1-alpha.7/ratatui/style/trait.Stylize.html</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.241206030150753 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.020100502512562 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2262,7 +2256,7 @@ https://docs.rs/ratatui/0.23.1-alpha.7/ratatui/style/trait.Stylize.html</div>
                                     <span class="prefix"></span>
                                     Follower
                                 </div>
-                                <div class="text">Following 18 users</div>
+                                <div class="text">Following 19 users</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
@@ -2342,7 +2336,7 @@ https://docs.rs/ratatui/0.23.1-alpha.7/ratatui/style/trait.Stylize.html</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2023, 19:11:36 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2023, 20:04:55 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
