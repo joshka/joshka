@@ -1914,7 +1914,7 @@ My approach generally would be to write characterization tests that fully cover 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 10.2k out of 68m repositories</span>
+                                    <span class="gh">ranked 10.2k out of 75.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 3971 stars</div>
                             </div>
@@ -2262,7 +2262,7 @@ My approach generally would be to write characterization tests that fully cover 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 972k out of 68m repositories</span>
+                                    <span class="gh">ranked 972k out of 75.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2375,7 +2375,7 @@ My approach generally would be to write characterization tests that fully cover 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2023, 12:04:35 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2023, 13:04:45 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
