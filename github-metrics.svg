@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1277 issue comments
+                            1278 issue comments
                         </div>
                     </section>
                     <section>
@@ -1605,6 +1605,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#616 If a ratatui application is killed, the cursor rests somewhere arbitrarily in the screen</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Thorongil80 in <span class="repo">ratatui-org/ratatui</span></div>
+                                    <div class="comment">Does this still happen if you call LeaveAlternateScreen during a panic hook? See https://ratatui.rs/how-to/develop-apps/setup-panic-hooks.html or https://ratatui.rs/how-to/develop-apps/better-panic-hooks.html for info</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#2048 Support passing a cloudflare zone id instead of a zone read key</span>
                                     </div>
                                 </div>
@@ -1665,23 +1682,6 @@ If it's not 1, I'd be curious to understand more about why.
                                         in
                                         <span class="repo">ratatui-org/ratatui</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#143 code consistency</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by aeosynth in <span class="repo">ratatui-org/ratatui-book</span></div>
-                                    <div class="comment">I'm going to move this to the main repo and convert it to a discussion as I'd like to expand this with a more all encompassing answer.</div>
                                 </div>
                             </section>
                         </div>
@@ -1854,7 +1854,7 @@ If it's not 1, I'd be curious to understand more about why.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="122.915 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="122.95375 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1877,9 +1877,9 @@ If it's not 1, I'd be curious to understand more about why.
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.75k out of 70.1m repositories</span>
+                                    <span class="gh">ranked 9.75k out of 72.2m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 4172 stars</div>
+                                <div class="text">Maintaining a repository with 4173 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2225,7 +2225,7 @@ If it's not 1, I'd be curious to understand more about why.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 974k out of 70.1m repositories</span>
+                                    <span class="gh">ranked 974k out of 72.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2338,7 +2338,7 @@ If it's not 1, I'd be curious to understand more about why.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2023, 08:04:50 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2023, 09:04:32 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
