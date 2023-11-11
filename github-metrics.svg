@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2677" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2660" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1295 issue comments
+                            1296 issue comments
                         </div>
                     </section>
                     <section>
@@ -1587,6 +1587,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#73 Don't stop running engine for checkmate position</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by joshka in <span class="repo">franciscoBSalgueiro/en-croissant</span></div>
+                                    <div class="comment">Thanks!</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#622 allow widgets to know their position on the screen.</span>
                                     </div>
                                 </div>
@@ -1662,23 +1679,6 @@ Because the builder methods currently use the field name (e.g.
 <span class="token attribute attr-name">#[getset(get = <span class="token string">"pub with_prefix"</span>)]</span></code>
                                         Make sure to pay some attention to how the API docs render. I suspect the field level comments will not be good enough for the getters in some cases as we've often commented just the builder methods. Perhaps it's sufficient to just link to the setters from each field?
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#596 fix: Rewrite the insert_before method on Terminal to fix a bug and remove the height cap</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by danny-burrows in <span class="repo">ratatui-org/ratatui</span></div>
-                                    <div class="comment">I've merged this - thanks for sticking with it to get it over the line. It should be available in the alpha release this Saturday.</div>
                                 </div>
                             </section>
                         </div>
@@ -1874,7 +1874,7 @@ Because the builder methods currently use the field name (e.g.
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.60k out of 54.8m repositories</span>
+                                    <span class="gh">ranked 9.60k out of 51.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4234 stars</div>
                             </div>
@@ -2222,7 +2222,7 @@ Because the builder methods currently use the field name (e.g.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 966k out of 54.8m repositories</span>
+                                    <span class="gh">ranked 966k out of 51.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2335,7 +2335,7 @@ Because the builder methods currently use the field name (e.g.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2023, 18:29:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2023, 19:07:44 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
