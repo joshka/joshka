@@ -1873,7 +1873,7 @@ allow us to make future changes to the Cell internals such as replacing `String`
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.56k out of 43.2m repositories</span>
+                                    <span class="gh">ranked 9.56k out of 43.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4254 stars</div>
                             </div>
@@ -2221,7 +2221,7 @@ allow us to make future changes to the Cell internals such as replacing `String`
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 966k out of 43.2m repositories</span>
+                                    <span class="gh">ranked 966k out of 43.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2334,7 +2334,7 @@ allow us to make future changes to the Cell internals such as replacing `String`
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2023, 11:03:57 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2023, 12:04:13 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
