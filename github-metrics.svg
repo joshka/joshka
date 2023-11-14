@@ -1888,7 +1888,7 @@ Also update titles to be consistent "How to: Blah"</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.52k out of 51m repositories</span>
+                                    <span class="gh">ranked 9.52k out of 52.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4269 stars</div>
                             </div>
@@ -2236,7 +2236,7 @@ Also update titles to be consistent "How to: Blah"</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 957k out of 51m repositories</span>
+                                    <span class="gh">ranked 967k out of 52.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2349,7 +2349,7 @@ Also update titles to be consistent "How to: Blah"</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2023, 17:27:12 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2023, 18:12:11 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
