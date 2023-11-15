@@ -1903,7 +1903,7 @@ Table::new(rows).widths(&amp;widths);
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.49k out of 53.3m repositories</span>
+                                    <span class="gh">ranked 9.49k out of 48.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4283 stars</div>
                             </div>
@@ -2251,7 +2251,7 @@ Table::new(rows).widths(&amp;widths);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 967k out of 53.3m repositories</span>
+                                    <span class="gh">ranked 967k out of 48.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2364,7 +2364,7 @@ Table::new(rows).widths(&amp;widths);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2023, 23:04:44 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2023, 00:05:04 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
