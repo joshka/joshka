@@ -1904,7 +1904,7 @@ Type docs:
                                     <div class="title">
                                         <span class="prefix">Great</span>
                                         maintainer
-                                        <span class="gh">ranked 9.39k out of 61m repositories</span>
+                                        <span class="gh">ranked 9.39k out of 56.8m repositories</span>
                                     </div>
                                     <div class="text">Maintaining a repository with 4322 stars</div>
                                 </div>
@@ -2252,7 +2252,7 @@ Type docs:
                                     <div class="title">
                                         <span class="prefix"></span>
                                         Inspirer
-                                        <span class="gh">ranked 981k out of 61m repositories</span>
+                                        <span class="gh">ranked 981k out of 56.8m repositories</span>
                                     </div>
                                     <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                                 </div>
@@ -2365,7 +2365,7 @@ Type docs:
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 18 Nov 2023, 16:14:43 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                    <span>Last updated 18 Nov 2023, 17:30:33 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
