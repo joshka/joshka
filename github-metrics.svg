@@ -1864,7 +1864,7 @@ The `List` widget now respects the alignment of `Line`s and renders them as expe
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.23k out of 53.9m repositories</span>
+                                    <span class="gh">ranked 9.23k out of 53.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4383 stars</div>
                             </div>
@@ -2212,7 +2212,7 @@ The `List` widget now respects the alignment of `Line`s and renders them as expe
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 982k out of 53.9m repositories</span>
+                                    <span class="gh">ranked 982k out of 53.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2325,7 +2325,7 @@ The `List` widget now respects the alignment of `Line`s and renders them as expe
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2023, 21:04:17 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Nov 2023, 22:04:44 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
