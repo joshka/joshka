@@ -1849,7 +1849,7 @@ Throw an exception if the anchor is missing</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 106k out of 124m users</span>
+                                    <span class="gh">ranked 106k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 129 public repositories</div>
                             </div>
@@ -1919,7 +1919,7 @@ Throw an exception if the anchor is missing</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.08k out of 54.4m repositories</span>
+                                    <span class="gh">ranked 9.08k out of 49.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4458 stars</div>
                             </div>
@@ -2221,7 +2221,7 @@ Throw an exception if the anchor is missing</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 372k out of 124m users</span>
+                                    <span class="gh">ranked 372k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 33 users</div>
                             </div>
@@ -2267,7 +2267,7 @@ Throw an exception if the anchor is missing</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 983k out of 54.4m repositories</span>
+                                    <span class="gh">ranked 936k out of 49.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2380,7 +2380,7 @@ Throw an exception if the anchor is missing</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2023, 10:04:51 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 11:03:58 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
