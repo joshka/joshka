@@ -1784,7 +1784,7 @@ Mostly I put them at the bottom because sometimes there can be links used multip
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 103k out of 125m users</span>
+                                    <span class="gh">ranked 103k out of 121m users</span>
                                 </div>
                                 <div class="text">Published 131 public repositories</div>
                             </div>
@@ -1854,7 +1854,7 @@ Mostly I put them at the bottom because sometimes there can be links used multip
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.06k out of 48m repositories</span>
+                                    <span class="gh">ranked 9.06k out of 46.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4471 stars</div>
                             </div>
@@ -2156,7 +2156,7 @@ Mostly I put them at the bottom because sometimes there can be links used multip
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 373k out of 125m users</span>
+                                    <span class="gh">ranked 373k out of 121m users</span>
                                 </div>
                                 <div class="text">Followed by 33 users</div>
                             </div>
@@ -2202,7 +2202,7 @@ Mostly I put them at the bottom because sometimes there can be links used multip
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 983k out of 48m repositories</span>
+                                    <span class="gh">ranked 983k out of 46.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2315,7 +2315,7 @@ Mostly I put them at the bottom because sometimes there can be links used multip
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2023, 11:04:14 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2023, 12:04:28 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
