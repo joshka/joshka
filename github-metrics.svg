@@ -1879,7 +1879,7 @@ point and not teaching the reader about how to refactor the code.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="136.59375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="136.67125000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1902,9 +1902,9 @@ point and not teaching the reader about how to refactor the code.</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 8.94k out of 46.7m repositories</span>
+                                    <span class="gh">ranked 8.94k out of 43.9m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 4525 stars</div>
+                                <div class="text">Maintaining a repository with 4527 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2250,7 +2250,7 @@ point and not teaching the reader about how to refactor the code.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 984k out of 46.7m repositories</span>
+                                    <span class="gh">ranked 984k out of 43.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2363,7 +2363,7 @@ point and not teaching the reader about how to refactor the code.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2023, 00:04:53 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2023, 01:04:39 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
