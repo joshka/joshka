@@ -1883,7 +1883,7 @@ This was causing a dependabot notice in https://github.com/joshka/nitidus/securi
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 99.4k out of 124m users</span>
+                                    <span class="gh">ranked 99.4k out of 126m users</span>
                                 </div>
                                 <div class="text">Published 134 public repositories</div>
                             </div>
@@ -1930,7 +1930,7 @@ This was causing a dependabot notice in https://github.com/joshka/nitidus/securi
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="137.52375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="137.60125 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1953,9 +1953,9 @@ This was causing a dependabot notice in https://github.com/joshka/nitidus/securi
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 8.90k out of 51.4m repositories</span>
+                                    <span class="gh">ranked 8.89k out of 47.1m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 4549 stars</div>
+                                <div class="text">Maintaining a repository with 4551 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2255,7 +2255,7 @@ This was causing a dependabot notice in https://github.com/joshka/nitidus/securi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 309k out of 124m users</span>
+                                    <span class="gh">ranked 309k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 39 users</div>
                             </div>
@@ -2301,7 +2301,7 @@ This was causing a dependabot notice in https://github.com/joshka/nitidus/securi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 984k out of 51.4m repositories</span>
+                                    <span class="gh">ranked 984k out of 47.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2414,7 +2414,7 @@ This was causing a dependabot notice in https://github.com/joshka/nitidus/securi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2023, 06:04:29 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2023, 07:04:50 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
