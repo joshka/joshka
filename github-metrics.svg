@@ -1849,7 +1849,7 @@ I think as a plugin it probably needs to render some text / an arrow inside the 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="138.37625 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="138.415 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1872,9 +1872,9 @@ I think as a plugin it probably needs to render some text / an arrow inside the 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 8.86k out of 53.7m repositories</span>
+                                    <span class="gh">ranked 8.86k out of 53.1m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 4571 stars</div>
+                                <div class="text">Maintaining a repository with 4572 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2220,7 +2220,7 @@ I think as a plugin it probably needs to render some text / an arrow inside the 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 984k out of 53.7m repositories</span>
+                                    <span class="gh">ranked 984k out of 53.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2333,7 +2333,7 @@ I think as a plugin it probably needs to render some text / an arrow inside the 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2023, 19:04:20 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Dec 2023, 20:04:37 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
