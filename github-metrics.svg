@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 39 users
+                            Followed by 40 users
                         </div>
                     </section>
                     <section>
@@ -1519,10 +1519,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    39 followers
+                    40 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBwgB/8QALBAAAgEDAwEHAwUAAAAAAAAAAQMCBAURAAYhEgcTFCMxQVEiYZEyQnFygf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAf/EAB0RAAIDAAIDAAAAAAAAAAAAAAEDAAIRBBITIjH/2gAMAwEAAhEDEQA/AETtEucqrcbC2uhNahheRyB7wz74Ofzqeu2jXW7aEL7cVBQqCfCIaAJtAgZlhz6AAf7nThte72Wk3LSC8KViqHdFjcdBHOIHPySCP641dl62nZ9yNZVXFrqijZTlQpZMyqBOfMA9p841rnFdsgeAsWQMmN6O6dLis4wcEH441LVVNep0oxR38f2sz6jT5vbs+RtOlslK59PVVBk17GxjjyuOgH5yc/jQOo8Mxpl+n7aQr3Gw/KaF265BT7uvMJMOe7kJxzzgjWl9gXmorbXblJS6qU2lU2TYs6OhpgCQftz7Z/jWObrHCYOiZRlL1APGrf2Zu272zsx8RRvjByXLVGXQDmPTHg6g2ovmxyK+P5O9pF/qK7edxRXNUyoppFHkklcRA4wM/fOllNNNqwyTVqEuYifqR86BbcnO5bgqWVrJtmxv1En16jzox4ZVxYx9RH6+oxAiSAAPQDVq26jBAsULMJM//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBAX/xAArEAABAwMCBAQHAAAAAAAAAAABAgMEAAUREiEGE0FRByIxYRQVI0JxkcH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/xAAZEQEBAQADAAAAAAAAAAAAAAABABECAyH/2gAMAwEAAhEDEQA/AHzlFMVxSBlYSSB3OKkHD7sP54ifLbkyp+zj7gJK8H1x0FWxlKDGcDxAb0nUScYHXepHDfgp4oQ3bZfxEBLhRzgPs9Fdveg7LqB3ajXKGG3VpAOOmoYNBjx/pDaszvGNpvF0uCWXRH5KlEF0hCFoztg/jpW2PISpoFJCh3phZ0a8QuN5tznybbEeLVuaUW8NnHNxsSfb2pXtshxiBMdbcWHEqbGB2Oc/yuZaVFd6ipc84W75tW+d6bDHaadntoQkISYyQMdMikFbkvznXW5R1kkkA/sZozV0eQgJQ8tIHTNM10aQUw8DTzYw16ds+RukAKOKY5Pj7f/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAAID/8QALBAAAQMCBAUEAQUAAAAAAAAAAQIDBAURAAYSIQcTMUFRCCIycRVCUoGRof/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQT/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADBBESITFR/9oADAMBAAIRAxEAPwCsy30xorr7hAbaSVqKlAAAC/U7DEOq3qGhR5PKp9AfkISSFKdlIb/rQFg/d8VbP1INdybWKegOLcdiuctCFFGpwAlANu2q23fEn4V8EpEbM61ZnYhS2GmGZTKlo5sZxtanAokFTd7aL/yDYg4q5dz1kBZosYjyUPhnxCp+fIkpUSO7FlRdPOYcINgb2II6jY+MOtsICckwaJxVps7KsFmn0hMSUl9LAIDvuSE3PMVquSVDpsjpth/vh+NY1ibaFWSR3OsWHLnKWmCylzl/JxxelAPi9ib/AEPHnGTKJElZHVR5FCarURYW5Igh1LLnvcUu6CSB8j+5NrHvthlySkfheZ+tx94qPmyykf4kYQPU3FSjhDXJTTjzT0ZcZ5pTThRpWp9CFHbyFHbpffrviXkXtY5U+CJsckzei0mNR2FNxKOzSYz6yWmY4HKIG2x7nYnexO+1sE8HqwArKcBarlbhZWVEkkEkE2J37kfROABxRw35V6+RtR2J/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQGCP/EAB8QAAICAgIDAQAAAAAAAAAAAAABAgMEBQYRFDFBcf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMREiH/2gAMAwEAAhEDEQA/AOdwDX8U45qdhrJ5u72nhqdrppipRg20k+33+mqqna8QjFyeIyAK9riLB2OTiK2FyqscFZH1NfGSGZLl4yPwAAhAAAD/2Q==" width="28" height="28" alt="" />
@@ -1546,7 +1547,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgUBAwcE/8QAMRAAAgEDAwIDAw0AAAAAAAAAAQMCBAURACExEhMGIkFRYYEHFRYjJDJCcZGhsdHw/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAlEQACAQMDAgcAAAAAAAAAAAABAgMABBEFIfASEzFRYXGRsfH/2gAMAwEAAhEDEQA/AOWUiZRYrYwLN9hn449ulnharfGpqO5bp1o7fXJ8YkziMfxrw/NlR2HsZKEx28RZ0nEODkka2WlV0t9tcKKoABA7jFsxnI339mNFW132JQyNg886pbyNbmAxzRgjHPCltvqrqqsWbZaXhjYliWPTwB+MA/7nTH6eus32Y1apZ82ciPu4z7tcDvlzuzgHV1zZPY9LZOnM52+PGhz7nIun1vEpA4Jwd9UDarJNvIAeelSB02OBQsB6R8/dNbLV05ubIskCGAhnSwzG3Pkx+2mfhtCLexkbk89pwM+2xeJgnYDH5alIXGXydU95nESfU9UGKIHbIEiOOR+uqFihTjvLlSIkJRO5B6h9X6EHOgC4WRWxvVGbYvEy9VVXSsV4aUwTREU4MJRL1rIJG20iM8emdBa3wKqb5TKJnqJPkAmPvH11d8XyjT32FPBSSvbmAzyecc/HOslSDGBlTqkenk5/vSIukI3WhTpzxnHcJ9/yv//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHA//EAC8QAAECBAQDBgcBAAAAAAAAAAECAwAEBREGITFhBxITFCIjUZGxMjNBcYGhwdL/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAEC/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQIAAxEhEv/aAAwDAQACEQMRAD8Aj1befoOM5x2QmFy78tNrW0pJsU53H6MEZXiVUWJVculmWJzHUDdisb2hbrrrlRxHOOn5jrzi7E/fL+QCmWXWJgpcFjr+IKDz3bXNk1i2qVA9JbxaaOrbXcB9NYqPD+SMzQOsjkUlbpsSdgIi0vJuNynaHyAiwI3uffaKVgrGEzQ6N2Vgp5FOF3PzIG20Sg1y5N4g0tdKxfUWOUhsOlaScrg5j3hVSpovEv8AORf6RSuM6jNY9bl3T4aW22xbUC4/0YATOGZFjGgpgU+qW6rae8oc1lAE5gQ3JJFIYOC24FwZ2nzTAQXmSglIWlJOawdLehhuw640mnkOtuFXOf5tArHBDEzLoZQlCW2lnIfF4h184zl1LQ0kBxegOZ2gh+jvN107/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EAC8QAAEDAgMGBQMFAAAAAAAAAAECAwQFEQASIQYTMUFhgQcUIlGhFTJxQoKisfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQD/8QAHhEAAgEEAwEAAAAAAAAAAAAAAQIAAxETIRIxUUH/2gAMAwEAAhEDEQA/AI1BotXrLKksuR4kWFaO5MkOZAeGUD30CbYGs02pNZ2qs04hADrIKugzn8i5Bw402LK+nLlQ0sOzlstk3AWbhe7cAB0CiUt68sHvDKltbWTqn9WVIZfW8Xkleig1YJuT7G1rcMQ83DWA1JMicCfoibs3TH50GKpSsjK7xlqPXQdri/fGKS8qiynoDy0pUysgEI+4f7Ttik1zYpezNPnCjVAT2AkrBtkcZULFNwDqLjj1wn1qoR3KgqQ8htYkpS+g5f0qSDbsbjth2BU2MlyFjrYhKnPORS5DDN0NqK07wWHq9K/5t4J0qvJo/npIcVuniy81z9CwboH40NuuAinFyoMR9xag7IbStwpNsxIZUfkfJxmmArmUZSzm3zbiFpIFiA6m2n7jgTuIVuJUZLjlQirkMrC3AnQWFnEHl3xJp0qmU6UuLUmUrKNWF7ri0dU8uVyO2Hjw7kuTNrZlNeI8lCbCWmkiw7+/9Y01KiU6TUJO/itr3bikJJHBNybfJxm1W7lPIJTxqG9n/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABggEBwX/xAArEAABAwIFAwMEAwAAAAAAAAABAgMEBREABhITIQcxQRQiYRUjUXFygcH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAHBEAAgMBAAMAAAAAAAAAAAAAAQIAAxESIUKh/9oADAMBAAIRAxEAPwCgKxDZS246jQhNjbnEfzqHJqDpnRfULdI1uKIuDdZHGKM61yaBQ8tFEmc9ElOqBbZYUS4sX548D5OJqgZlkU2LIYjguQ987GohCxye4PjzgNtbEaojFLr7GNsl5vrFLjSaKtlmU40rQ0SSdq3fjyOcbXMwZudWVJek27WQwLJ+O2BvTzPMHLU96S9GjTpst3c33gdtm4IIKe6u4/GOzq6vR3AkppLDvtAK23/aT8cYn3VMDuRmu3R4H2cczXWFVjqaGa1KkTbKDQuL2UDfR/AEr7f1jB9DgyavVEONbbAdcdiFtwugKCyiwI5N1JAFxg0+8t7qFHW4bqVUhf5+5h70PWZ1Sm1CTZUhsJb4SEpVqVypQHc+88/rF1Tydkkr0vMJz6PBiZdjLXub5fkuNtCwWRobQLk+AQePNzbHmUusPxoxQ06rQVFXBP6/zCLrVIVT8xRvShKQyuSEAi4Fli2AMYBbKVKFycD5DMZrSqgT/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -1861,7 +1861,7 @@ Perhaps we could add another page for logging pointing to some choices? (how-to/
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="145.235 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="146.785 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1884,9 +1884,9 @@ Perhaps we could add another page for logging pointing to some choices? (how-to/
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 8.49k out of 51.6m repositories</span>
+                                    <span class="gh">ranked 8.41k out of 50.3m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 4748 stars</div>
+                                <div class="text">Maintaining a repository with 4788 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2149,7 +2149,7 @@ Perhaps we could add another page for logging pointing to some choices? (how-to/
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.597989949748744 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.37688442211055 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2186,9 +2186,9 @@ Perhaps we could add another page for logging pointing to some choices? (how-to/
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 309k out of 126m users</span>
+                                    <span class="gh">ranked 300k out of 126m users</span>
                                 </div>
-                                <div class="text">Followed by 39 users</div>
+                                <div class="text">Followed by 40 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2232,7 +2232,7 @@ Perhaps we could add another page for logging pointing to some choices? (how-to/
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 984k out of 51.6m repositories</span>
+                                    <span class="gh">ranked 984k out of 50.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2345,7 +2345,7 @@ Perhaps we could add another page for logging pointing to some choices? (how-to/
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Dec 2023, 13:04:09 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2023, 14:04:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
