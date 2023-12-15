@@ -1876,7 +1876,7 @@ Only changes were to includes / admonish / svgbob
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.73k out of 49.7m repositories</span>
+                                    <span class="gh">ranked 7.73k out of 44.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5152 stars</div>
                             </div>
@@ -2224,7 +2224,7 @@ Only changes were to includes / admonish / svgbob
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 985k out of 49.7m repositories</span>
+                                    <span class="gh">ranked 985k out of 44.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2337,7 +2337,7 @@ Only changes were to includes / admonish / svgbob
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2023, 03:04:12 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2023, 04:05:37 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
