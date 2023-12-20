@@ -1800,7 +1800,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 91k out of 126m users</span>
+                                    <span class="gh">ranked 91k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 141 public repositories</div>
                             </div>
@@ -1847,7 +1847,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.787999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.881 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1870,9 +1870,9 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.41k out of 49.6m repositories</span>
+                                    <span class="gh">ranked 7.40k out of 53.6m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5348 stars</div>
+                                <div class="text">Maintaining a repository with 5351 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2172,7 +2172,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 263k out of 126m users</span>
+                                    <span class="gh">ranked 263k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 45 users</div>
                             </div>
@@ -2249,7 +2249,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 987k out of 49.6m repositories</span>
+                                    <span class="gh">ranked 987k out of 53.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2331,7 +2331,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Dec 2023, 14:04:15 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2023, 15:04:27 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
