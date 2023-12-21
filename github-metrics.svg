@@ -1852,7 +1852,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.346 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.408 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1875,9 +1875,9 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.38k out of 46.2m repositories</span>
+                                    <span class="gh">ranked 7.38k out of 51m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5366 stars</div>
+                                <div class="text">Maintaining a repository with 5368 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2254,7 +2254,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 987k out of 46.2m repositories</span>
+                                    <span class="gh">ranked 987k out of 51m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2336,7 +2336,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2023, 07:04:29 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Dec 2023, 08:04:31 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
