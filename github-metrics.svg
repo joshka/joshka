@@ -1849,7 +1849,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.36k out of 56.5m repositories</span>
+                                    <span class="gh">ranked 7.36k out of 54.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5381 stars</div>
                             </div>
@@ -2228,7 +2228,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 987k out of 56.5m repositories</span>
+                                    <span class="gh">ranked 987k out of 54.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2310,7 +2310,7 @@ https://developers.cloudflare.com/pages/platform/known-issues/</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2023, 22:04:41 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Dec 2023, 23:04:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
