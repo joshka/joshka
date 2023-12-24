@@ -1900,7 +1900,7 @@ Add support for Tablebase endpoints</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.26k out of 53.2m repositories</span>
+                                    <span class="gh">ranked 7.26k out of 59m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5443 stars</div>
                             </div>
@@ -2279,7 +2279,7 @@ Add support for Tablebase endpoints</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 987k out of 53.2m repositories</span>
+                                    <span class="gh">ranked 987k out of 59m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2361,7 +2361,7 @@ Add support for Tablebase endpoints</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2023, 11:04:05 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2023, 12:04:18 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
