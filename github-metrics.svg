@@ -1839,7 +1839,7 @@ Line::raw("Hello, world!").render(frame, area);
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 91.2k out of 126m users</span>
+                                    <span class="gh">ranked 91.2k out of 127m users</span>
                                 </div>
                                 <div class="text">Published 141 public repositories</div>
                             </div>
@@ -1909,7 +1909,7 @@ Line::raw("Hello, world!").render(frame, area);
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.21k out of 47.8m repositories</span>
+                                    <span class="gh">ranked 7.21k out of 46.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5485 stars</div>
                             </div>
@@ -2211,7 +2211,7 @@ Line::raw("Hello, world!").render(frame, area);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 250k out of 126m users</span>
+                                    <span class="gh">ranked 250k out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 47 users</div>
                             </div>
@@ -2288,7 +2288,7 @@ Line::raw("Hello, world!").render(frame, area);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 988k out of 47.8m repositories</span>
+                                    <span class="gh">ranked 988k out of 46.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2370,7 +2370,7 @@ Line::raw("Hello, world!").render(frame, area);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2023, 06:04:31 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2023, 07:04:22 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
