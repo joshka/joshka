@@ -1922,7 +1922,7 @@ Doing this could collapse the header / footer methods to a single method:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.18k out of 47.2m repositories</span>
+                                    <span class="gh">ranked 7.18k out of 62m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5505 stars</div>
                             </div>
@@ -2301,7 +2301,7 @@ Doing this could collapse the header / footer methods to a single method:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 988k out of 47.2m repositories</span>
+                                    <span class="gh">ranked 988k out of 62m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2383,7 +2383,7 @@ Doing this could collapse the header / footer methods to a single method:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2023, 09:04:14 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2023, 10:04:54 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
