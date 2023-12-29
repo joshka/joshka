@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2730" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2729" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1569 issue comments
+                            1570 issue comments
                         </div>
                     </section>
                     <section>
@@ -1597,6 +1597,28 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#719 feat(table): Add Table::footer and Row::top_margin methods</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by yanganto in <span class="repo">ratatui-org/ratatui</span></div>
+                                    <div class="comment">
+                                        <i>Hmm... This is based on the setting of the repo.</i>
+                                        Yep. We've intentionally turned that setting on.
+                                        <i>Will signing for others' commitment change the author?</i>
+                                        The commit author and committer are two separate things. You'd be marked as the author, and I'd be marked as the committer. I'll wait and let you take a look at getting things signed properly, but the workaround is there if you need it.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#274 Add stdout / stderr performance to FAQ</span>
                                     </div>
                                 </div>
@@ -1654,33 +1676,6 @@
                                     <div>opened by joshka in <span class="repo">ratatui-org/ratatui</span></div>
                                     <div class="comment">PR Notes: this is a large-ish PR, but it's repetitive.
 It does have me wishing that we could macro up the setters though to remove the duplication.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#719 feat(table): Add Table::footer and Row::top_margin methods</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by yanganto in <span class="repo">ratatui-org/ratatui</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            I use
-                                            <code>trezor-gpg</code>
-                                            and it seems difficult to sign a commit with this. Also I try to generate a new one with gpg my machine(NixOS)
-                                        </i>
-                                        This isn't something a combination of tools I'm familiar with.
-                                        <i>Could I use "squash merge" on the GitHub web UI when I get all approvals? Such that the commit in the commit history page will still be verified. Is that good for you?</i>
-                                        Github prevents the merge due to the signing (and doesn't enable the squash merge button).
-What I can do is pull this down, sign it and force push it myself if you're unable to sign the commits. Usually we like to encourage the original committer to sign the commits when possible though, so it's up to you.
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1876,7 +1871,7 @@ What I can do is pull this down, sign it and force push it myself if you're unab
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.17k out of 56.1m repositories</span>
+                                    <span class="gh">ranked 7.17k out of 46.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5513 stars</div>
                             </div>
@@ -2255,7 +2250,7 @@ What I can do is pull this down, sign it and force push it myself if you're unab
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 988k out of 56.1m repositories</span>
+                                    <span class="gh">ranked 988k out of 46.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2337,7 +2332,7 @@ What I can do is pull this down, sign it and force push it myself if you're unab
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Dec 2023, 03:04:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Dec 2023, 04:05:18 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
