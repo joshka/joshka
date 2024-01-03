@@ -1841,7 +1841,7 @@ This makes it clear when a change breaks the serialization format, which directi
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 82.8k out of 127m users</span>
+                                    <span class="gh">ranked 77.7k out of 127m users</span>
                                 </div>
                                 <div class="text">Published 149 public repositories</div>
                             </div>
@@ -1911,7 +1911,7 @@ This makes it clear when a change breaks the serialization format, which directi
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.05k out of 59.2m repositories</span>
+                                    <span class="gh">ranked 7.05k out of 47.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5589 stars</div>
                             </div>
@@ -2290,7 +2290,7 @@ This makes it clear when a change breaks the serialization format, which directi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 989k out of 59.2m repositories</span>
+                                    <span class="gh">ranked 989k out of 47.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2372,7 +2372,7 @@ This makes it clear when a change breaks the serialization format, which directi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2024, 00:05:12 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2024, 01:04:40 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
