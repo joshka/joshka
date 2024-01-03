@@ -1913,7 +1913,7 @@ This makes it clear when a change breaks the serialization format, which directi
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.04k out of 52.3m repositories</span>
+                                    <span class="gh">ranked 7.04k out of 56.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5602 stars</div>
                             </div>
@@ -2292,7 +2292,7 @@ This makes it clear when a change breaks the serialization format, which directi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 989k out of 52.3m repositories</span>
+                                    <span class="gh">ranked 989k out of 56.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2374,7 +2374,7 @@ This makes it clear when a change breaks the serialization format, which directi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2024, 14:04:28 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2024, 15:04:47 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
