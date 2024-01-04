@@ -1954,7 +1954,7 @@ Making this accpet Into allows for:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.03k out of 54.8m repositories</span>
+                                    <span class="gh">ranked 7.03k out of 52.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5608 stars</div>
                             </div>
@@ -2333,7 +2333,7 @@ Making this accpet Into allows for:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 989k out of 54.8m repositories</span>
+                                    <span class="gh">ranked 989k out of 52.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2415,7 +2415,7 @@ Making this accpet Into allows for:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2024, 23:04:25 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 00:04:46 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
