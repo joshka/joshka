@@ -1869,7 +1869,7 @@ Regardless, my specific situation is from the perspective of a maintainer of a r
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.98k out of 51m repositories</span>
+                                    <span class="gh">ranked 6.98k out of 59m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5644 stars</div>
                             </div>
@@ -2248,7 +2248,7 @@ Regardless, my specific situation is from the perspective of a maintainer of a r
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 989k out of 51m repositories</span>
+                                    <span class="gh">ranked 989k out of 59m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2330,7 +2330,7 @@ Regardless, my specific situation is from the perspective of a maintainer of a r
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2024, 03:04:11 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2024, 04:05:21 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
