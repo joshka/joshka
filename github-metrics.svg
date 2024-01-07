@@ -1899,7 +1899,7 @@ The custom tags format could be similar to the usual format variables approach. 
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.92k out of 50.3m repositories</span>
+                                    <span class="gh">ranked 6.92k out of 55.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5693 stars</div>
                             </div>
@@ -2278,7 +2278,7 @@ The custom tags format could be similar to the usual format variables approach. 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 990k out of 50.3m repositories</span>
+                                    <span class="gh">ranked 990k out of 55.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2360,7 +2360,7 @@ The custom tags format could be similar to the usual format variables approach. 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2024, 14:04:17 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2024, 15:04:20 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
