@@ -1883,7 +1883,7 @@ There might be a few changes that we want to move users away from more forcefull
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.96k out of 57.8m repositories</span>
+                                    <span class="gh">ranked 6.96k out of 51.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5661 stars</div>
                             </div>
@@ -2262,7 +2262,7 @@ There might be a few changes that we want to move users away from more forcefull
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 989k out of 57.8m repositories</span>
+                                    <span class="gh">ranked 989k out of 51.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2344,7 +2344,7 @@ There might be a few changes that we want to move users away from more forcefull
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2024, 18:16:46 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2024, 19:04:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
