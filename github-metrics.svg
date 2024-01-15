@@ -1858,7 +1858,7 @@ This is the VHS size for 1200 pixels.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 83.2k out of 128m users</span>
+                                    <span class="gh">ranked 83.2k out of 127m users</span>
                                 </div>
                                 <div class="text">Published 149 public repositories</div>
                             </div>
@@ -1928,7 +1928,7 @@ This is the VHS size for 1200 pixels.</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.72k out of 52.4m repositories</span>
+                                    <span class="gh">ranked 6.72k out of 52.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5846 stars</div>
                             </div>
@@ -2230,7 +2230,7 @@ This is the VHS size for 1200 pixels.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 230k out of 128m users</span>
+                                    <span class="gh">ranked 230k out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 51 users</div>
                             </div>
@@ -2307,7 +2307,7 @@ This is the VHS size for 1200 pixels.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 991k out of 52.4m repositories</span>
+                                    <span class="gh">ranked 991k out of 52.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2389,7 +2389,7 @@ This is the VHS size for 1200 pixels.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jan 2024, 11:04:20 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jan 2024, 12:04:23 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
