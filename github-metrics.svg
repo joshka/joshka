@@ -1858,7 +1858,7 @@ This is the VHS size for 1200 pixels.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 83.2k out of 128m users</span>
+                                    <span class="gh">ranked 83.2k out of 127m users</span>
                                 </div>
                                 <div class="text">Published 149 public repositories</div>
                             </div>
@@ -1905,7 +1905,7 @@ This is the VHS size for 1200 pixels.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.070999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.102 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1930,7 +1930,7 @@ This is the VHS size for 1200 pixels.</div>
                                     maintainer
                                     <span class="gh">ranked 6.72k out of 49.9m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5841 stars</div>
+                                <div class="text">Maintaining a repository with 5842 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2230,7 +2230,7 @@ This is the VHS size for 1200 pixels.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 230k out of 128m users</span>
+                                    <span class="gh">ranked 230k out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 51 users</div>
                             </div>
@@ -2389,7 +2389,7 @@ This is the VHS size for 1200 pixels.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jan 2024, 04:05:51 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jan 2024, 05:05:59 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
