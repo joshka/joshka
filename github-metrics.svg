@@ -1868,7 +1868,7 @@ you may be able to update to the latest alpha (released weekly on Saturdays) htt
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.69k out of 56.4m repositories</span>
+                                    <span class="gh">ranked 6.69k out of 51.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5882 stars</div>
                             </div>
@@ -2247,7 +2247,7 @@ you may be able to update to the latest alpha (released weekly on Saturdays) htt
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 992k out of 56.4m repositories</span>
+                                    <span class="gh">ranked 992k out of 51.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2329,7 +2329,7 @@ you may be able to update to the latest alpha (released weekly on Saturdays) htt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2024, 16:14:10 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2024, 17:28:40 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
