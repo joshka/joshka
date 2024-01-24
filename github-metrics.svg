@@ -1829,7 +1829,7 @@ This one makes some sense to animate (slowly - use 1s per tab.). For that, make 
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 79.5k out of 125m users</span>
+                                    <span class="gh">ranked 79.6k out of 128m users</span>
                                 </div>
                                 <div class="text">Published 153 public repositories</div>
                             </div>
@@ -1899,7 +1899,7 @@ This one makes some sense to animate (slowly - use 1s per tab.). For that, make 
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.59k out of 51.6m repositories</span>
+                                    <span class="gh">ranked 6.59k out of 47.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5972 stars</div>
                             </div>
@@ -2201,7 +2201,7 @@ This one makes some sense to animate (slowly - use 1s per tab.). For that, make 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 220k out of 125m users</span>
+                                    <span class="gh">ranked 220k out of 128m users</span>
                                 </div>
                                 <div class="text">Followed by 53 users</div>
                             </div>
@@ -2278,7 +2278,7 @@ This one makes some sense to animate (slowly - use 1s per tab.). For that, make 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 993k out of 51.6m repositories</span>
+                                    <span class="gh">ranked 993k out of 47.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2360,7 +2360,7 @@ This one makes some sense to animate (slowly - use 1s per tab.). For that, make 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2024, 00:04:58 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2024, 01:04:27 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
