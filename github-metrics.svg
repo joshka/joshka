@@ -1858,7 +1858,7 @@ https://docs.rs/itertools/0.11.0/itertools/trait.Itertools.html#method.with_posi
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.969 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1881,9 +1881,9 @@ https://docs.rs/itertools/0.11.0/itertools/trait.Itertools.html#method.with_posi
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.56k out of 53.1m repositories</span>
+                                    <span class="gh">ranked 6.56k out of 48.2m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5999 stars</div>
+                                <div class="text">Maintaining a repository with 6000 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2260,7 +2260,7 @@ https://docs.rs/itertools/0.11.0/itertools/trait.Itertools.html#method.with_posi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 994k out of 53.1m repositories</span>
+                                    <span class="gh">ranked 994k out of 48.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2342,7 +2342,7 @@ https://docs.rs/itertools/0.11.0/itertools/trait.Itertools.html#method.with_posi
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2024, 00:05:00 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jan 2024, 01:05:13 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
