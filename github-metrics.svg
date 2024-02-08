@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1887 issue comments
+                            1888 issue comments
                         </div>
                     </section>
                     <section>
@@ -1639,6 +1639,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#938 `Line::styled` not applying styles in ratatui 0.26.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jwodder in <span class="repo">ratatui-org/ratatui</span></div>
+                                    <div class="comment">We should have a 0.26.1 fix out in the next few days for this. Either https://github.com/ratatui-org/ratatui/pull/930 or https://github.com/ratatui-org/ratatui/pull/926 likely fixes the problem. Try pointing at main with a patch override https://doc.rust-lang.org/cargo/reference/overriding-dependencies.html#the-patch-section if you need it before then / to confirm the fix addresses your issue.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#934 fix: use `to_string` to serialize Color</span>
                                     </div>
                                 </div>
@@ -1696,23 +1713,6 @@ Current algorithm works out where to render and then renders the text left to ri
                                 <div class="details">
                                     <div>opened by wolfedme in <span class="repo">ratatui-org/ratatui</span></div>
                                     <div class="comment">Add a doc comment about conversion.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#936 feat(barchart): reduced verbosity of barchart creation (#683)</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by wolfedme in <span class="repo">ratatui-org/ratatui</span></div>
-                                    <div class="comment">Add a note about conversion (applies generally to the new methods, won't repeat, but do a quick check for this)</div>
                                 </div>
                             </section>
                         </div>
@@ -1885,7 +1885,7 @@ Current algorithm works out where to render and then renders the text left to ri
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.68 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.742000000000004 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1908,9 +1908,9 @@ Current algorithm works out where to render and then renders the text left to ri
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.26k out of 64.8m repositories</span>
+                                    <span class="gh">ranked 6.26k out of 75.2m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 6280 stars</div>
+                                <div class="text">Maintaining a repository with 6282 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2287,7 +2287,7 @@ Current algorithm works out where to render and then renders the text left to ri
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 997k out of 64.8m repositories</span>
+                                    <span class="gh">ranked 997k out of 75.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2369,7 +2369,7 @@ Current algorithm works out where to render and then renders the text left to ri
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2024, 08:04:47 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2024, 09:04:30 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
