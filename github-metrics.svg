@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2655" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2656" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1880 issue comments
+                            1881 issue comments
                         </div>
                     </section>
                     <section>
@@ -1635,6 +1635,36 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#934 fix: use `to_string` to serialize Color</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by SleepySwords in <span class="repo">ratatui-org/ratatui</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            Good point. One reason I can think of is that people may want to serialize into
+                                            <code>hsl(0, 100%, 50%)</code>
+                                            instead of
+                                            <code>#ff0000</code>
+                                            . I'm not sure if that would work if we provide a default (I'm fairly new to serde, so there may be some obvious way to do this that I don't know about).
+                                        </i>
+                                        My guess is that this would never be a default serialization format, only a deserialization. I could be wrong though, the only way I can think of to be able to make serialization work would be to keep the colors a
+                                        <code>Color::Hsl</code>
+                                        instead of converting to
+                                        <code>Color::Rgb</code>
+                                        during serialization. At that point, I'd advise the developer of such a problem to use a wrapper type or serialization helper that implements this and does the conversion for their app. This is because the only color schemes that consoles understand are indexed or RGB - not HSL.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1708,23 +1738,6 @@ Fixes: https://github.com/ratatui-org/ratatui/pull/929</div>
                                 <div class="details">
                                     <div> in <span class="repo">ratatui-org/ratatui</span></div>
                                     <div>2 files changed <span class="code">++464 --352</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#933 fix(block): fix crash on empty right aligned title</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by joshka in <span class="repo">ratatui-org/ratatui</span></div>
-                                    <div class="comment">I don't think rendering changes should be marked as breaking either from a perspective of recording in the the breaking changes doc or causing a major release. Every change we make changes the way that things render in some way.</div>
                                 </div>
                             </section>
                         </div>
@@ -1850,7 +1863,7 @@ Fixes: https://github.com/ratatui-org/ratatui/pull/929</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 74.7k out of 131m users</span>
+                                    <span class="gh">ranked 74.7k out of 130m users</span>
                                 </div>
                                 <div class="text">Published 159 public repositories</div>
                             </div>
@@ -1920,7 +1933,7 @@ Fixes: https://github.com/ratatui-org/ratatui/pull/929</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.27k out of 76.6m repositories</span>
+                                    <span class="gh">ranked 6.27k out of 71.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6272 stars</div>
                             </div>
@@ -2222,7 +2235,7 @@ Fixes: https://github.com/ratatui-org/ratatui/pull/929</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 187k out of 131m users</span>
+                                    <span class="gh">ranked 188k out of 130m users</span>
                                 </div>
                                 <div class="text">Followed by 61 users</div>
                             </div>
@@ -2299,7 +2312,7 @@ Fixes: https://github.com/ratatui-org/ratatui/pull/929</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 996k out of 76.6m repositories</span>
+                                    <span class="gh">ranked 996k out of 71.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2381,7 +2394,7 @@ Fixes: https://github.com/ratatui-org/ratatui/pull/929</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2024, 16:13:09 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Feb 2024, 17:24:15 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
