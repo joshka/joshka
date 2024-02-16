@@ -2011,7 +2011,7 @@ Try the top left and bottom right and see if there's a difference in what happen
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.08k out of 74.1m repositories</span>
+                                    <span class="gh">ranked 6.08k out of 69.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6441 stars</div>
                             </div>
@@ -2390,7 +2390,7 @@ Try the top left and bottom right and see if there's a difference in what happen
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 998k out of 74.1m repositories</span>
+                                    <span class="gh">ranked 998k out of 69.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2472,7 +2472,7 @@ Try the top left and bottom right and see if there's a difference in what happen
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Feb 2024, 06:04:22 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Feb 2024, 07:04:25 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
