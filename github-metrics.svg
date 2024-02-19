@@ -1892,7 +1892,7 @@ And yep - I think it makes sense to move the redraw handling out of the handle_a
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.089000000000006 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.12 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1915,9 +1915,9 @@ And yep - I think it makes sense to move the redraw handling out of the handle_a
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.01k out of 70.1m repositories</span>
+                                    <span class="gh">ranked 6k out of 79.4m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 6519 stars</div>
+                                <div class="text">Maintaining a repository with 6520 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2294,7 +2294,7 @@ And yep - I think it makes sense to move the redraw handling out of the handle_a
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 999k out of 70.1m repositories</span>
+                                    <span class="gh">ranked 999k out of 79.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2376,7 +2376,7 @@ And yep - I think it makes sense to move the redraw handling out of the handle_a
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2024, 01:04:35 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Feb 2024, 02:04:41 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
