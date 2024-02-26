@@ -339,7 +339,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M3.47 7.78a.75.75 0 010-1.06l4.25-4.25a.75.75 0 011.06 0l4.25 4.25a.75.75 0 01-1.06 1.06L9 4.81v7.44a.75.75 0 01-1.5 0V4.81L4.53 7.78a.75.75 0 01-1.06 0z"/>
                             </svg>
-                            98 Upvotes from comments
+                            99 Upvotes from comments
                         </div>
                     </section>
                 </div>
@@ -1925,7 +1925,7 @@ https://github.com/withastro/astro/pull/9546</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.638000000000005 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.669 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1948,9 +1948,9 @@ https://github.com/withastro/astro/pull/9546</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.85k out of 73.5m repositories</span>
+                                    <span class="gh">ranked 5.84k out of 76.6m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 6698 stars</div>
+                                <div class="text">Maintaining a repository with 6699 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2250,7 +2250,7 @@ https://github.com/withastro/astro/pull/9546</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 176k out of 131m users</span>
+                                    <span class="gh">ranked 175k out of 131m users</span>
                                 </div>
                                 <div class="text">Followed by 65 users</div>
                             </div>
@@ -2327,7 +2327,7 @@ https://github.com/withastro/astro/pull/9546</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1m out of 73.5m repositories</span>
+                                    <span class="gh">ranked 1m out of 76.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2409,7 +2409,7 @@ https://github.com/withastro/astro/pull/9546</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2024, 22:05:04 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2024, 23:04:31 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
