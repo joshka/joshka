@@ -1931,7 +1931,7 @@ Use github searches to understand the impact of the change on downstream code - 
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.69k out of 73.9m repositories</span>
+                                    <span class="gh">ranked 5.69k out of 73.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6887 stars</div>
                             </div>
@@ -2310,7 +2310,7 @@ Use github searches to understand the impact of the change on downstream code - 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1m out of 73.9m repositories</span>
+                                    <span class="gh">ranked 1m out of 73.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2392,7 +2392,7 @@ Use github searches to understand the impact of the change on downstream code - 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2024, 02:05:04 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Mar 2024, 03:04:38 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
