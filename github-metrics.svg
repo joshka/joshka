@@ -1872,7 +1872,7 @@ The calls to that processing don't handle errors correctly</div>
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.550999999999995 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.582 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1895,9 +1895,9 @@ The calls to that processing don't handle errors correctly</div>
                                     <div class="title">
                                         <span class="prefix">Super</span>
                                         maintainer
-                                        <span class="gh">ranked 5.66k out of 85.8m repositories</span>
+                                        <span class="gh">ranked 5.66k out of 86.1m repositories</span>
                                     </div>
-                                    <div class="text">Maintaining a repository with 6921 stars</div>
+                                    <div class="text">Maintaining a repository with 6922 stars</div>
                                 </div>
                             </div>
                             <div class="achievement a largeable-width-half">
@@ -2274,7 +2274,7 @@ The calls to that processing don't handle errors correctly</div>
                                     <div class="title">
                                         <span class="prefix"></span>
                                         Inspirer
-                                        <span class="gh">ranked 1m out of 85.8m repositories</span>
+                                        <span class="gh">ranked 1m out of 86.1m repositories</span>
                                     </div>
                                     <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                                 </div>
@@ -2356,7 +2356,7 @@ The calls to that processing don't handle errors correctly</div>
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 9 Mar 2024, 17:27:30 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                    <span>Last updated 9 Mar 2024, 18:12:22 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
