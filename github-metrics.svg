@@ -1860,7 +1860,7 @@ Please provide more details on the build failure and a copy of the output of car
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 71k out of 132m users</span>
+                                    <span class="gh">ranked 71k out of 133m users</span>
                                 </div>
                                 <div class="text">Published 165 public repositories</div>
                             </div>
@@ -1907,7 +1907,7 @@ Please provide more details on the build failure and a copy of the output of car
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.317 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.348 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1930,9 +1930,9 @@ Please provide more details on the build failure and a copy of the output of car
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.53k out of 80.3m repositories</span>
+                                    <span class="gh">ranked 5.53k out of 86.5m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7107 stars</div>
+                                <div class="text">Maintaining a repository with 7108 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2232,7 +2232,7 @@ Please provide more details on the build failure and a copy of the output of car
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 157k out of 132m users</span>
+                                    <span class="gh">ranked 157k out of 133m users</span>
                                 </div>
                                 <div class="text">Followed by 72 users</div>
                             </div>
@@ -2309,7 +2309,7 @@ Please provide more details on the build failure and a copy of the output of car
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.01m out of 80.3m repositories</span>
+                                    <span class="gh">ranked 1.01m out of 86.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2391,7 +2391,7 @@ Please provide more details on the build failure and a copy of the output of car
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2024, 23:04:51 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2024, 00:04:59 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
