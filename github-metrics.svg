@@ -1887,7 +1887,7 @@ The workaround for any consuming packages in the mean time (assuming they care a
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="69.44 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="69.50200000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1910,9 +1910,9 @@ The workaround for any consuming packages in the mean time (assuming they care a
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.42k out of 72.1m repositories</span>
+                                    <span class="gh">ranked 5.41k out of 65.7m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7240 stars</div>
+                                <div class="text">Maintaining a repository with 7242 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2289,7 +2289,7 @@ The workaround for any consuming packages in the mean time (assuming they care a
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.01m out of 72.1m repositories</span>
+                                    <span class="gh">ranked 1.01m out of 65.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2371,7 +2371,7 @@ The workaround for any consuming packages in the mean time (assuming they care a
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2024, 15:04:52 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2024, 16:04:37 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
