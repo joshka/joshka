@@ -1910,7 +1910,7 @@ The workaround for any consuming packages in the mean time (assuming they care a
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.42k out of 93m repositories</span>
+                                    <span class="gh">ranked 5.42k out of 72.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7240 stars</div>
                             </div>
@@ -2289,7 +2289,7 @@ The workaround for any consuming packages in the mean time (assuming they care a
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.01m out of 93m repositories</span>
+                                    <span class="gh">ranked 1.01m out of 72.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2371,7 +2371,7 @@ The workaround for any consuming packages in the mean time (assuming they care a
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2024, 14:04:05 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2024, 15:04:52 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
