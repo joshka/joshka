@@ -1914,7 +1914,7 @@ Fixes: https://github.com/ratatui-org/ratatui/issues/932</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.43k out of 77.5m repositories</span>
+                                    <span class="gh">ranked 5.43k out of 74.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7228 stars</div>
                             </div>
@@ -2293,7 +2293,7 @@ Fixes: https://github.com/ratatui-org/ratatui/issues/932</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.01m out of 77.5m repositories</span>
+                                    <span class="gh">ranked 1.01m out of 74.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2375,7 +2375,7 @@ Fixes: https://github.com/ratatui-org/ratatui/issues/932</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2024, 23:04:38 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2024, 00:04:15 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
