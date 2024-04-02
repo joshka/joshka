@@ -1907,7 +1907,7 @@ If you're strongly against this change that's fine, we can work out a differnt n
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.83500000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="70.928 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1930,9 +1930,9 @@ If you're strongly against this change that's fine, we can work out a differnt n
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.37k out of 73.5m repositories</span>
+                                    <span class="gh">ranked 5.37k out of 54.4m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7285 stars</div>
+                                <div class="text">Maintaining a repository with 7288 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2309,7 +2309,7 @@ If you're strongly against this change that's fine, we can work out a differnt n
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.01m out of 73.5m repositories</span>
+                                    <span class="gh">ranked 1.01m out of 54.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2391,7 +2391,7 @@ If you're strongly against this change that's fine, we can work out a differnt n
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2024, 04:04:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Apr 2024, 05:06:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
