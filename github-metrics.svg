@@ -1894,7 +1894,7 @@ Allows the linting and style settings for the frontend to be applied even when y
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.849 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.88 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1917,9 +1917,9 @@ Allows the linting and style settings for the frontend to be applied even when y
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.22k out of 202m repositories</span>
+                                    <span class="gh">ranked 5.22k out of 180m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7479 stars</div>
+                                <div class="text">Maintaining a repository with 7480 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2296,7 +2296,7 @@ Allows the linting and style settings for the frontend to be applied even when y
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.01m out of 202m repositories</span>
+                                    <span class="gh">ranked 1.01m out of 180m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2378,7 +2378,7 @@ Allows the linting and style settings for the frontend to be applied even when y
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2024, 04:04:54 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Apr 2024, 05:05:32 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
