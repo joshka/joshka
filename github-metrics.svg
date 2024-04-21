@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2197 issue comments
+                            2198 issue comments
                         </div>
                     </section>
                     <section>
@@ -1634,6 +1634,24 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#20 Suggestion: add in automated benchmarking</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by jembishop in <span class="repo">jonhoo/rust-ci-conf</span></div>
+                                    <div class="comment">Something I've done recently instead of merging this repo into my own repos is to setup a set of CI templates which I include into each repo by calling the workflows. https://github.com/joshka/github-workflows/
+Using that approach, setting up a couple of standard benchmark templates that can be easily called might be a viable approach for this - similarly with the other more optional CI workflows in this repo.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#1045 Easier viewing of styles in widgets in a print debugging workflow</span>
                                     </div>
                                 </div>
@@ -1722,32 +1740,6 @@ Internally it would allocate the right size buffer, render and pull out the stri
                                     <div class="comment">
                                         <i>Currently both are diverged in features and functionality which is… not helpful.</i>
                                         You're right it's not helpful in the short term, but the implementations in Line and Span are more correct for longer term and I think that's where we should focus the implementation (replacement rather than trying to make these have the same behavior). We can't easily change behavior of the functions in Buffer without breaking the world, but we can introduce new, better, divergent functionality in the Line and Span Widget implementations.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#985 Make the rendered text on the terminal copyable</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by chgxtony in <span class="repo">ratatui-org/ratatui</span></div>
-                                    <div class="comment">
-                                        <i>What is different between table and flex examples (I am new to ratatui). Thx</i>
-                                        Table has mouse capture turned on (as do a lot of the examples unnecessarily). This prevents the mouse clicks that would generally make it possible to perform copy/paste actions (noting that there's usually workarounds as @EdJoPaTo mentions).
-https://github.com/ratatui-org/ratatui/blob/326a461f9a345ba853d57afefc8d77ba0b0b5a14/examples/table.rs#L185
-Fixing this means:
-
- Remove the enable/disable mouse capture from all the examples where mouse clicks are not handled
-
-@chgxtony would it be safe to reframe this issue as "Many of the examples don't allow selecting text using the mouse"?
                                     </div>
                                 </div>
                             </section>
@@ -1921,7 +1913,7 @@ Fixing this means:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.762 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.79299999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1944,9 +1936,9 @@ Fixing this means:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 5.05k out of 203m repositories</span>
+                                    <span class="gh">ranked 5.04k out of 200m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7702 stars</div>
+                                <div class="text">Maintaining a repository with 7703 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2323,7 +2315,7 @@ Fixing this means:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.01m out of 203m repositories</span>
+                                    <span class="gh">ranked 1.01m out of 200m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2405,7 +2397,7 @@ Fixing this means:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2024, 08:04:12 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2024, 09:04:46 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
