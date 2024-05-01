@@ -1923,7 +1923,7 @@ https://github.com/ratatui-org/ratatui-website/blob/main/src/content/docs/tutori
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.93k out of 204m repositories</span>
+                                    <span class="gh">ranked 4.93k out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7842 stars</div>
                             </div>
@@ -2302,7 +2302,7 @@ https://github.com/ratatui-org/ratatui-website/blob/main/src/content/docs/tutori
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.02m out of 204m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2419,7 +2419,7 @@ https://github.com/ratatui-org/ratatui-website/blob/main/src/content/docs/tutori
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 May 2024, 03:04:28 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2024, 04:04:09 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
