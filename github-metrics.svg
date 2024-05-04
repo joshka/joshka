@@ -1917,7 +1917,7 @@ Doing things with alternative implementations instead of pure replacement also c
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.27999999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.311 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1942,7 +1942,7 @@ Doing things with alternative implementations instead of pure replacement also c
                                     maintainer
                                     <span class="gh">ranked 4.90k out of 206m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 7880 stars</div>
+                                <div class="text">Maintaining a repository with 7881 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2436,7 +2436,7 @@ Doing things with alternative implementations instead of pure replacement also c
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2024, 21:04:45 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2024, 22:04:28 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
