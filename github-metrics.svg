@@ -1921,7 +1921,7 @@ If we did change this, I'd want to change it everywhere all at once, in a major 
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.82k out of 158m repositories</span>
+                                    <span class="gh">ranked 4.82k out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7987 stars</div>
                             </div>
@@ -2300,7 +2300,7 @@ If we did change this, I'd want to change it everywhere all at once, in a major 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.02m out of 158m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2417,7 +2417,7 @@ If we did change this, I'd want to change it everywhere all at once, in a major 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2024, 09:04:55 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 May 2024, 10:04:38 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
