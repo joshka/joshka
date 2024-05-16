@@ -1931,7 +1931,7 @@ Does this help make a bit more sense of why I saw this as the less complex appro
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.82k out of 190m repositories</span>
+                                    <span class="gh">ranked 4.82k out of 201m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7998 stars</div>
                             </div>
@@ -2310,7 +2310,7 @@ Does this help make a bit more sense of why I saw this as the less complex appro
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.02m out of 190m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 201m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2427,7 +2427,7 @@ Does this help make a bit more sense of why I saw this as the less complex appro
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2024, 00:04:15 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 May 2024, 01:04:33 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
