@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2849" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2750" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.categories,.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories{justify-content:space-around;margin-top:4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 227 repositories
+                            Contributed to 228 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3603 Commits
+                            3608 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2405 issue comments
+                            2406 issue comments
                         </div>
                     </section>
                     <section>
@@ -133,7 +133,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 46 repositories
+                            Watching 47 repositories
                         </div>
                     </section>
                 </div>
@@ -145,7 +145,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            187 Repositories
+                            188 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -197,7 +197,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    85 Watchers
+                                    86 Watchers
                                 </div>
                             </section>
                         </div>
@@ -505,12 +505,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 45 commits)</small>
+                    <small class="h-details">(computed from last 46 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.5 characters per line of code written</li>
+                        <li>Has approximately 35.6 characters per line of code written</li>
                         <li>Mostly pushes code around 21:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1647,37 +1647,22 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#1121 RSX-based interface to reduce boilerplate code</span>
+                                        <span class="issue">#1909 Add discourse to social icons</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by d4h0 in <span class="repo">ratatui-org/ratatui</span></div>
-                                    <div class="comment">I'd imagine this is probably possible to write outside of Ratatui core. There's nothing preventing you from adding something like this on top of the existing system afaik, maintenance burden is one thing that would steer me personally away from it in the short term (i.e. I'd imagine this would be a lot of code, which would be difficult to keep up to date with any changes to the core internals - doubling the work / tests / etc.)
-I'd definitely encourage you to experiment with this - you may end up with something pretty neat for building TUIs.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#12 BUG | failed to send tick event: SendError { .. }</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by mertssmnoglu in <span class="repo">orhun/flawz</span></div>
+                                    <div>opened by joshka in <span class="repo">withastro/starlight</span></div>
                                     <div class="comment">
                                         <i>
-                                            Just realized we panic on this in the template too:
-                                            <code class="language-multiline" xml:space="preserve">* https://github.com/ratatui-org/templates/blob/main/simple/src/event.rs#L65
-
-<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                            I might also move the new
+                                            <code>discourse</code>
+                                            entry in
+                                            <code>Icons.ts</code>
+                                            up to be with the other social icons although we don’t have a strict rule about this, i.e. I guess immediately after
+                                            <code>blueSky</code>
+                                            would make sense to keep social platforms roughly grouped together.
                                         </i>
-                                        There's a bug for this in https://github.com/ratatui-org/templates/issues/49 :)
+                                        done in https://github.com/withastro/starlight/pull/1909/commits/39de623676f8c162091f4838ea7d19a2cf6773cf
                                     </div>
                                 </div>
                             </section>
@@ -1690,387 +1675,36 @@ I'd definitely encourage you to experiment with this - you may end up with somet
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ratatui-org/ratatui-website</span>
+                                        <span class="repo">joshka/starlight</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2affc59</div>
-                                        <div class="message">chore(deps): bump the cargo-dependencies group with 3 updates (#603)
+                                        <div class="sha">#39de623</div>
+                                        <div class="message">move icon up</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">joshka/starlight</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7b53441</div>
+                                        <div class="message">Update packages/starlight/components/Icons.ts
 
-Bumps the cargo-dependencies group with 3 updates:
-[libc](https://github.com/rust-lang/libc),
-[serde](https://github.com/serde-rs/serde) and
-[itertools](https://github.com/rust-itertools/itertools).
-
-Updates `libc` from 0.2.154 to 0.2.155
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/rust-lang/libc/releases"&gt;libc's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;0.2.155&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Add &lt;code&gt;SYS_lseek&lt;/code&gt; and &lt;code&gt;SYS_mmap&lt;/code&gt; for aarch64
-Android by &lt;a
-href="https://github.com/lberrymage"&gt;&lt;code&gt;@​lberrymage&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3632"&gt;rust-lang/libc#3632&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Correct the value of FAN_MARK_IGNORE by &lt;a
-href="https://github.com/severen"&gt;&lt;code&gt;@​severen&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3622"&gt;rust-lang/libc#3622&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update FreeBSD 13 CI image by &lt;a
-href="https://github.com/JohnTitor"&gt;&lt;code&gt;@​JohnTitor&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3671"&gt;rust-lang/libc#3671&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;android: add FUTEX_LOCK_PI2 by &lt;a
-href="https://github.com/rtzoeller"&gt;&lt;code&gt;@​rtzoeller&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3635"&gt;rust-lang/libc#3635&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix out-of-bounds pointer arithmetic in CMSG_NXTHDR by &lt;a
-href="https://github.com/purplesyringa"&gt;&lt;code&gt;@​purplesyringa&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3676"&gt;rust-lang/libc#3676&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Revert &amp;quot;Support posix_spawn on Android&amp;quot; by &lt;a
-href="https://github.com/JohnTitor"&gt;&lt;code&gt;@​JohnTitor&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3678"&gt;rust-lang/libc#3678&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Unlock ci: fix wrong cfg emscripten by &lt;a
-href="https://github.com/tesuji"&gt;&lt;code&gt;@​tesuji&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3684"&gt;rust-lang/libc#3684&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;redox: correct EPOLL constants by &lt;a
-href="https://github.com/jackpot51"&gt;&lt;code&gt;@​jackpot51&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3686"&gt;rust-lang/libc#3686&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[0.2] Revert &amp;quot;Upgrade Docker images to Ubuntu 23.10&amp;quot; on
-sparc64 by &lt;a
-href="https://github.com/cuviper"&gt;&lt;code&gt;@​cuviper&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3708"&gt;rust-lang/libc#3708&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Re-add &lt;code&gt;posix_spawn{_file_actions_t,attr_t}&lt;/code&gt; on Android
-by &lt;a href="https://github.com/tesuji"&gt;&lt;code&gt;@​tesuji&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3690"&gt;rust-lang/libc#3690&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update version to &lt;code&gt;0.2.155&lt;/code&gt; by &lt;a
-href="https://github.com/madsmtm"&gt;&lt;code&gt;@​madsmtm&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3682"&gt;rust-lang/libc#3682&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/lberrymage"&gt;&lt;code&gt;@​lberrymage&lt;/code&gt;&lt;/a&gt; made
-their first contribution in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3632"&gt;rust-lang/libc#3632&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/purplesyringa"&gt;&lt;code&gt;@​purplesyringa&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/rust-lang/libc/pull/3676"&gt;rust-lang/libc#3676&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
-href="https://github.com/rust-lang/libc/compare/0.2.154...0.2.155"&gt;https://github.com/rust-lang/libc/compare/0.2.154...0.2.155&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-lang/libc/commit/7df63bd7f61bf3408344673cf0ba08e7ff0df134"&gt;&lt;code&gt;7df63bd&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/rust-lang/libc/issues/3682"&gt;#3682&lt;/a&gt;
-from madsmtm/new-version&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-lang/libc/commit/0bbb5cda65be451d6ca9bf9a425a4edc3d580772"&gt;&lt;code&gt;0bbb5cd&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/rust-lang/libc/issues/3690"&gt;#3690&lt;/a&gt;
-from tesuji/android-posix-spawn&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-lang/libc/commit/15c74a4faba398a579a3a551f77cf790d5abf1f8"&gt;&lt;code&gt;15c74a4&lt;/code&gt;&lt;/a&gt;
-Update version to 0.2.155&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-lang/libc/commit/664947bdb087711c6e42596d081eacf5ba30dadd"&gt;&lt;code&gt;664947b&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/rust-lang/libc/issues/3708"&gt;#3708&lt;/a&gt;
-from cuviper/ci-sparc64-0.2&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-lang/libc/commit/61331df06f425934fa43a506e25217f49a039a7c"&gt;&lt;code&gt;61331df&lt;/code&gt;&lt;/a&gt;
-Also skip &lt;code&gt;MFD_EXEC&lt;/code&gt; and &lt;code&gt;MFD_NOEXEC_SEAL&lt;/code&gt; on
-sparc64&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-lang/libc/commit/73d2004d3e8ed9c15d46fd4e69b5f3f7dbbe86c7"&gt;&lt;code&gt;73d2004&lt;/code&gt;&lt;/a&gt;
-Skip &lt;code&gt;SECCOMP_FILTER_FLAG_WAIT_KILLABLE_RECV&lt;/code&gt; on sparc64&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-lang/libc/commit/80535f34aafbf089f201dfb217d659e36a18671a"&gt;&lt;code&gt;80535f3&lt;/code&gt;&lt;/a&gt;
-Revert &amp;quot;Upgrade Docker images to Ubuntu 23.10&amp;quot; on sparc64&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-lang/libc/commit/b2b2fd71f4cb866c2d3e4579a50a70aa460aab8e"&gt;&lt;code&gt;b2b2fd7&lt;/code&gt;&lt;/a&gt;
-Readd posix_spawn{_file_actions_t,attr_t} on Android&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-lang/libc/commit/76462771b6f8a6889ba6becadb53418df5515370"&gt;&lt;code&gt;7646277&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/rust-lang/libc/issues/3686"&gt;#3686&lt;/a&gt;
-from redox-os/redox-epoll-0.2&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-lang/libc/commit/5eff703b923d3e1b042e91bc67409cca961f3976"&gt;&lt;code&gt;5eff703&lt;/code&gt;&lt;/a&gt;
-redox: correct EPOLL constants&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/rust-lang/libc/compare/0.2.154...0.2.155"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-Updates `serde` from 1.0.201 to 1.0.202
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/serde-rs/serde/releases"&gt;serde's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v1.0.202&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Provide public access to RenameAllRules in serde_derive_internals
-(&lt;a
-href="https://redirect.github.com/serde-rs/serde/issues/2743"&gt;#2743&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/serde-rs/serde/commit/9e32a40b1c745d1d67d451cc983fab5751d394a5"&gt;&lt;code&gt;9e32a40&lt;/code&gt;&lt;/a&gt;
-Release 1.0.202&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/serde-rs/serde/commit/87f635e54d5359fa0eb94b1ef0a684ee3d24cb85"&gt;&lt;code&gt;87f635e&lt;/code&gt;&lt;/a&gt;
-Release serde_derive_internals 0.29.1&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/serde-rs/serde/commit/d4b2dfbde288e0ba5d4dc7852e1b8029208cf9b6"&gt;&lt;code&gt;d4b2dfb&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/serde-rs/serde/issues/2743"&gt;#2743&lt;/a&gt;
-from dtolnay/renameallrules&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/serde-rs/serde/commit/f6ab0bc56f3df6d03974d233ffce352b0725ae09"&gt;&lt;code&gt;f6ab0bc&lt;/code&gt;&lt;/a&gt;
-Provide public access to RenameAllRules in serde_derive_internals&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/serde-rs/serde/commit/48cc2a63279d4ea44a88d566b0667f65c9ea79f4"&gt;&lt;code&gt;48cc2a6&lt;/code&gt;&lt;/a&gt;
-Replace use of a syn From impl&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/serde-rs/serde/commit/3202a6858a2802b5aba2fa5cf3ec8f203408db74"&gt;&lt;code&gt;3202a68&lt;/code&gt;&lt;/a&gt;
-Skip rerunning build script on library code changes&lt;/li&gt;
-&lt;li&gt;See full diff in &lt;a
-href="https://github.com/serde-rs/serde/compare/v1.0.201...v1.0.202"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-Updates `itertools` from 0.12.1 to 0.13.0
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/rust-itertools/itertools/blob/master/CHANGELOG.md"&gt;itertools's
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;0.13.0&lt;/h2&gt;
-&lt;h3&gt;Breaking&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Removed implementation of &lt;code&gt;DoubleEndedIterator&lt;/code&gt; for
-&lt;code&gt;ConsTuples&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/853"&gt;#853&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Made &lt;code&gt;MultiProduct&lt;/code&gt; fused and fixed on an empty iterator
-(&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/835"&gt;#835&lt;/a&gt;,
-&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/834"&gt;#834&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Changed &lt;code&gt;iproduct!&lt;/code&gt; to return tuples for maxi one
-iterator too (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/870"&gt;#870&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Changed &lt;code&gt;PutBack::put_back&lt;/code&gt; to return the old value (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/880"&gt;#880&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Removed deprecated &lt;code&gt;repeat_call, Itertools::{foreach, step,
-map_results, fold_results}&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/878"&gt;#878&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Removed &lt;code&gt;TakeWhileInclusive::new&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/912"&gt;#912&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Added&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added &lt;code&gt;Itertools::{smallest_by, smallest_by_key, largest,
-largest_by, largest_by_key}&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/654"&gt;#654&lt;/a&gt;,
-&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/885"&gt;#885&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;Itertools::tail&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/899"&gt;#899&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Implemented &lt;code&gt;DoubleEndedIterator&lt;/code&gt; for
-&lt;code&gt;ProcessResults&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/910"&gt;#910&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Implemented &lt;code&gt;Debug&lt;/code&gt; for &lt;code&gt;FormatWith&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/931"&gt;#931&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;Itertools::get&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/891"&gt;#891&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Changed&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Deprecated &lt;code&gt;Itertools::group_by&lt;/code&gt; (renamed
-&lt;code&gt;chunk_by&lt;/code&gt;) (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/866"&gt;#866&lt;/a&gt;,
-&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/879"&gt;#879&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Deprecated &lt;code&gt;unfold&lt;/code&gt; (use &lt;code&gt;std::iter::from_fn&lt;/code&gt;
-instead) (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/871"&gt;#871&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Optimized &lt;code&gt;GroupingMapBy&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/873"&gt;#873&lt;/a&gt;,
-&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/876"&gt;#876&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Relaxed &lt;code&gt;Fn&lt;/code&gt; bounds to &lt;code&gt;FnMut&lt;/code&gt; in
-&lt;code&gt;diff_with, Itertools::into_group_map_by&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/886"&gt;#886&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Relaxed &lt;code&gt;Debug/Clone&lt;/code&gt; bounds for &lt;code&gt;MapInto&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/889"&gt;#889&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Documented the &lt;code&gt;use_alloc&lt;/code&gt; feature (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/887"&gt;#887&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Optimized &lt;code&gt;Itertools::set_from&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/888"&gt;#888&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Removed badges in &lt;code&gt;README.md&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/890"&gt;#890&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Added &amp;quot;no-std&amp;quot; categories in &lt;code&gt;Cargo.toml&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/894"&gt;#894&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;Itertools::k_smallest&lt;/code&gt; on short unfused iterators
-(&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/900"&gt;#900&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Deprecated &lt;code&gt;Itertools::tree_fold1&lt;/code&gt; (renamed
-&lt;code&gt;tree_reduce&lt;/code&gt;) (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/895"&gt;#895&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Deprecated &lt;code&gt;GroupingMap::fold_first&lt;/code&gt; (renamed
-&lt;code&gt;reduce&lt;/code&gt;) (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/902"&gt;#902&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;Itertools::k_smallest(0)&lt;/code&gt; to consume the iterator,
-optimized &lt;code&gt;Itertools::k_smallest(1)&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/909"&gt;#909&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Specialized &lt;code&gt;Combinations::nth&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/914"&gt;#914&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Specialized &lt;code&gt;MergeBy::fold&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/920"&gt;#920&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Specialized &lt;code&gt;CombinationsWithReplacement::nth&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/923"&gt;#923&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Specialized &lt;code&gt;FlattenOk::{fold, rfold}&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/927"&gt;#927&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Specialized &lt;code&gt;Powerset::nth&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/924"&gt;#924&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Documentation fixes (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/882"&gt;#882&lt;/a&gt;,
-&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/936"&gt;#936&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fixed &lt;code&gt;assert_equal&lt;/code&gt; for iterators longer than
-&lt;code&gt;i32::MAX&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/932"&gt;#932&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Updated the &lt;code&gt;must_use&lt;/code&gt; message of non-lazy
-&lt;code&gt;KMergeBy&lt;/code&gt; and &lt;code&gt;TupleCombinations&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/939"&gt;#939&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Notable Internal Changes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Tested iterator laziness (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/792"&gt;#792&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Created &lt;code&gt;CONTRIBUTING.md&lt;/code&gt; (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/767"&gt;#767&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-itertools/itertools/commit/d5084d15e959b85d89a49e5cd33ad6267bc541a3"&gt;&lt;code&gt;d5084d1&lt;/code&gt;&lt;/a&gt;
-Prepare v0.13.0 release (&lt;a
-href="https://redirect.github.com/rust-itertools/itertools/issues/937"&gt;#937&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-itertools/itertools/commit/d7c99d55daeaa76f482444e95beb99f5744ced4e"&gt;&lt;code&gt;d7c99d5&lt;/code&gt;&lt;/a&gt;
-&lt;code&gt;TupleCombinations&lt;/code&gt; is not lazy but must be used
-nonetheless&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-itertools/itertools/commit/074c7fcc07c2bfd60f238585c05134ea3eb43f77"&gt;&lt;code&gt;074c7fc&lt;/code&gt;&lt;/a&gt;
-&lt;code&gt;KMergeBy&lt;/code&gt; is not lazy but must be used nonetheless&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-itertools/itertools/commit/2ad9e07ae860bb891e48b35edfea5b3286dcb4ab"&gt;&lt;code&gt;2ad9e07&lt;/code&gt;&lt;/a&gt;
-&lt;code&gt;assert_equal&lt;/code&gt;: fix
-&lt;code&gt;clippy::default_numeric_fallback&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-itertools/itertools/commit/0d4efc84323399b47b09ae9da1ff3fdfc2cf95e1"&gt;&lt;code&gt;0d4efc8&lt;/code&gt;&lt;/a&gt;
-Remove free function &lt;code&gt;get&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-itertools/itertools/commit/05cc0ee256e84d665e34209053ebc62ef7e4463d"&gt;&lt;code&gt;05cc0ee&lt;/code&gt;&lt;/a&gt;
-&lt;code&gt;get(s..=usize::MAX)&lt;/code&gt; should be fine when &lt;code&gt;s !=
-0&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-itertools/itertools/commit/3c16f14baa5515376adcd8c530f6d3d275b14f44"&gt;&lt;code&gt;3c16f14&lt;/code&gt;&lt;/a&gt;
-&lt;code&gt;get&lt;/code&gt;: when is it ESI and/or DEI&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-itertools/itertools/commit/4dd6ba0e7c44bb287dff1098d8fb6ab77c32bf87"&gt;&lt;code&gt;4dd6ba0&lt;/code&gt;&lt;/a&gt;
-&lt;code&gt;get&lt;/code&gt;: panics if the range includes
-&lt;code&gt;usize::MAX&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-itertools/itertools/commit/7a9ce56fc59489668178d696db76afb3580a359c"&gt;&lt;code&gt;7a9ce56&lt;/code&gt;&lt;/a&gt;
-&lt;code&gt;get(r: Range)&lt;/code&gt; as &lt;code&gt;Skip\&amp;lt;Take&amp;gt;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/rust-itertools/itertools/commit/f676f2f96451220c827c62f714d79ce6454d0184"&gt;&lt;code&gt;f676f2f&lt;/code&gt;&lt;/a&gt;
-Remove the unspecified check about
-&lt;code&gt;.get(exhausted_range_inclusive)&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/rust-itertools/itertools/compare/v0.12.1...v0.13.0"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore &lt;dependency name&gt; major version` will close this
-group update PR and stop Dependabot creating any more for the specific
-dependency's major version (unless you unignore this specific
-dependency's major version or upgrade to it yourself)
-- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
-group update PR and stop Dependabot creating any more for the specific
-dependency's minor version (unless you unignore this specific
-dependency's minor version or upgrade to it yourself)
-- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
-and stop Dependabot creating any more for the specific dependency
-(unless you unignore this specific dependency or upgrade to it yourself)
-- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
-conditions of the specified dependency
-- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
-remove the ignore condition of the specified dependency and ignore
-conditions
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+Co-authored-by: Chris Swithinbank &lt;swithinbank@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2082,11 +1716,11 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
+                                        Created new
                       branch
-                                        <span class="code">dependabot/cargo/cargo-dependencies-134d1e7007</span>
+                                        <span class="code">main</span>
                                         in
-                                        <span class="repo">ratatui-org/ratatui-website</span>
+                                        <span class="repo">joshka/planetary-parsec</span>
                                     </div>
                                 </div>
                             </section>
@@ -2095,44 +1729,12 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">joshka/ratatui-widgets</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6742677</div>
-                                        <div class="message">chore(deps): bump the all-dependencies group with 2 updates (#26)
-
-Bumps the all-dependencies group with 2 updates: [itertools](https://github.com/rust-itertools/itertools) and [thiserror](https://github.com/dtolnay/thiserror).
-
-
-Updates `itertools` from 0.12.1 to 0.13.0
-- [Changelog](https://github.com/rust-itertools/itertools/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/rust-itertools/itertools/compare/v0.12.1...v0.13.0)
-
-Updates `thiserror` from 1.0.60 to 1.0.61
-- [Release notes](https://github.com/dtolnay/thiserror/releases)
-- [Commits](https://github.com/dtolnay/thiserror/compare/1.0.60...1.0.61)
-
----
-updated-dependencies:
-- dependency-name: itertools
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: all-dependencies
-- dependency-name: thiserror
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: all-dependencies
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                        Created new
+                      repository
+                                        <span class="repo">joshka/planetary-parsec</span>
                                     </div>
                                 </div>
                             </section>
@@ -2234,7 +1836,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.7 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="84.73333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2259,9 +1861,9 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 61.7k out of 137m users</span>
+                                    <span class="gh">ranked 61.1k out of 137m users</span>
                                 </div>
-                                <div class="text">Published 181 public repositories</div>
+                                <div class="text">Published 182 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2274,7 +1876,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="19.375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.75 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2293,7 +1895,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     <span class="prefix">Master</span>
                                     polyglot
                                 </div>
-                                <div class="text">Using 18 different programming languages</div>
+                                <div class="text">Using 20 different programming languages</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2306,7 +1908,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.263 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.356 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2329,9 +1931,9 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.78k out of 192m repositories</span>
+                                    <span class="gh">ranked 4.77k out of 203m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8073 stars</div>
+                                <div class="text">Maintaining a repository with 8076 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2708,7 +2310,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.02m out of 192m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2825,7 +2427,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 May 2024, 03:04:22 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 May 2024, 04:04:27 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
