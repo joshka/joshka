@@ -1892,7 +1892,7 @@ tldr: I think must_use helps the compiler to ensure correct code. When the code 
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 61.2k out of 136m users</span>
+                                    <span class="gh">ranked 61.2k out of 137m users</span>
                                 </div>
                                 <div class="text">Published 182 public repositories</div>
                             </div>
@@ -1939,7 +1939,7 @@ tldr: I think must_use helps the compiler to ensure correct code. When the code 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="98.487 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="98.51800000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1962,9 +1962,9 @@ tldr: I think must_use helps the compiler to ensure correct code. When the code 
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.70k out of 202m repositories</span>
+                                    <span class="gh">ranked 4.70k out of 206m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8177 stars</div>
+                                <div class="text">Maintaining a repository with 8178 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2264,7 +2264,7 @@ tldr: I think must_use helps the compiler to ensure correct code. When the code 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 109k out of 136m users</span>
+                                    <span class="gh">ranked 109k out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 100 users</div>
                             </div>
@@ -2341,7 +2341,7 @@ tldr: I think must_use helps the compiler to ensure correct code. When the code 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.02m out of 202m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 206m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2458,7 +2458,7 @@ tldr: I think must_use helps the compiler to ensure correct code. When the code 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2024, 10:04:11 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 May 2024, 11:04:47 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
