@@ -1871,7 +1871,7 @@ The following items have been added to the prelude:
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 61.8k out of 134m users</span>
+                                    <span class="gh">ranked 61.8k out of 137m users</span>
                                 </div>
                                 <div class="text">Published 181 public repositories</div>
                             </div>
@@ -2243,7 +2243,7 @@ The following items have been added to the prelude:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 109k out of 134m users</span>
+                                    <span class="gh">ranked 109k out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 100 users</div>
                             </div>
@@ -2437,7 +2437,7 @@ The following items have been added to the prelude:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2024, 00:05:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2024, 01:05:20 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
