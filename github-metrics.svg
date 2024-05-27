@@ -1871,7 +1871,7 @@ The following items have been added to the prelude:
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 61.8k out of 137m users</span>
+                                    <span class="gh">ranked 61.8k out of 134m users</span>
                                 </div>
                                 <div class="text">Published 181 public repositories</div>
                             </div>
@@ -1918,7 +1918,7 @@ The following items have been added to the prelude:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="98.70400000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="98.735 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1941,9 +1941,9 @@ The following items have been added to the prelude:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.70k out of 190m repositories</span>
+                                    <span class="gh">ranked 4.70k out of 196m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8184 stars</div>
+                                <div class="text">Maintaining a repository with 8185 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2243,7 +2243,7 @@ The following items have been added to the prelude:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 109k out of 137m users</span>
+                                    <span class="gh">ranked 109k out of 134m users</span>
                                 </div>
                                 <div class="text">Followed by 100 users</div>
                             </div>
@@ -2320,7 +2320,7 @@ The following items have been added to the prelude:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.02m out of 190m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2437,7 +2437,7 @@ The following items have been added to the prelude:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2024, 23:06:17 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2024, 00:05:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
