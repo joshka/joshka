@@ -1932,7 +1932,7 @@ I suspect this might break some small amount of workflows that specify this, but
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.69k out of 201m repositories</span>
+                                    <span class="gh">ranked 4.69k out of 206m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8213 stars</div>
                             </div>
@@ -2311,7 +2311,7 @@ I suspect this might break some small amount of workflows that specify this, but
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.02m out of 201m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 206m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2428,7 +2428,7 @@ I suspect this might break some small amount of workflows that specify this, but
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 May 2024, 20:04:36 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 May 2024, 21:05:40 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
