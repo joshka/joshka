@@ -1880,7 +1880,7 @@ Fixes https://github.com/ratatui-org/ratatui-website/issues/633</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.733 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.764 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1903,9 +1903,9 @@ Fixes https://github.com/ratatui-org/ratatui-website/issues/633</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.58k out of 195m repositories</span>
+                                    <span class="gh">ranked 4.58k out of 196m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8443 stars</div>
+                                <div class="text">Maintaining a repository with 8444 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2282,7 +2282,7 @@ Fixes https://github.com/ratatui-org/ratatui-website/issues/633</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.03m out of 195m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2399,7 +2399,7 @@ Fixes https://github.com/ratatui-org/ratatui-website/issues/633</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2024, 22:04:25 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2024, 23:06:03 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
