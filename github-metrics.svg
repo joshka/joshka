@@ -1855,7 +1855,7 @@ The styles are actually overridden as specified, style by style, not element by 
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 58.8k out of 138m users</span>
+                                    <span class="gh">ranked 58.8k out of 134m users</span>
                                 </div>
                                 <div class="text">Published 187 public repositories</div>
                             </div>
@@ -2192,7 +2192,7 @@ The styles are actually overridden as specified, style by style, not element by 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 107k out of 138m users</span>
+                                    <span class="gh">ranked 107k out of 134m users</span>
                                 </div>
                                 <div class="text">Followed by 103 users</div>
                             </div>
@@ -2421,7 +2421,7 @@ The styles are actually overridden as specified, style by style, not element by 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2024, 14:04:36 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2024, 15:04:54 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
