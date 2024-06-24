@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2853" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2749" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .label-right,.label.label-flex{display:flex;align-items:center}.label .label-right{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3662 Commits
+                            3663 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2597 issue comments
+                            2598 issue comments
                         </div>
                     </section>
                     <section>
@@ -267,13 +267,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="7.206896551724139" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="7.206896551724139" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="7.206896551724139" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="7.206896551724139" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="7.206896551724139" y="0" width="30.724137931034484" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="37.93103448275862" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="37.93103448275862" y="0" width="182.06896551724137" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="6.827586206896552" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="6.827586206896552" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="6.827586206896552" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="6.827586206896552" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="6.827586206896552" y="0" width="30.724137931034484" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="37.55172413793103" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="37.55172413793103" y="0" width="182.44827586206898" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -281,13 +281,13 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">19 <small>open</small></span>
+                                <span class="no-wrap">18 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">480 <small>merged</small></span>
+                                <span class="no-wrap">481 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -513,7 +513,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 49 commits)</small>
+                    <small class="h-details">(computed from last 52 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1646,71 +1646,670 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#26 Migrating to windows-sys</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ratatui-org/ratatui-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by WanderLanz in <span class="repo">crossterm-rs/crossterm-winapi</span></div>
-                                    <div class="comment">
-                                        <i>@joshka Thank you for letting me know. I haven't used the higher-level windows crate in a long time, awesome to see it getting along.
-It would be interesting to see if it helps the main crossterm crate as well. Timon seems pretty apathetic to migrating from winapi unless a issue arises, so any benefit is awesome.</i>
-                                        Reading the other thread (and assuming positive intent), Timon's view seems more like a "don't fix what ain't broke" perspective combined with an acknowledgment that they don't have time to spend thoroughly testing this. Fundamentally changing a library like this that underpins one that has such a broad blast radius if it breaks is risky if done with limited time availability.
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#93d8a9f</div>
+                                        <div class="message">chore(deps): bump the npm-dependencies group with 5 updates (#646)
+
+Bumps the npm-dependencies group with 5 updates:
+
+| Package | From | To |
+| --- | --- | --- |
+|
+[@astrojs/starlight](https://github.com/withastro/starlight/tree/HEAD/packages/starlight)
+| `0.24.2` | `0.24.4` |
+| [astro](https://github.com/withastro/astro/tree/HEAD/packages/astro) |
+`4.10.2` | `4.11.0` |
+| [typescript](https://github.com/Microsoft/TypeScript) | `5.4.5` |
+`5.5.2` |
+|
+[prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte)
+| `3.2.4` | `3.2.5` |
+|
+[prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+| `0.6.4` | `0.6.5` |
+
+Updates `@astrojs/starlight` from 0.24.2 to 0.24.4
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/withastro/starlight/releases"&gt;&lt;code&gt;@​astrojs/starlight&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;&lt;code&gt;@​astrojs/starlight&lt;/code&gt;&lt;a
+href="https://github.com/0"&gt;&lt;code&gt;@​0&lt;/code&gt;&lt;/a&gt;.24.4&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/starlight/pull/2038"&gt;#2038&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/starlight/commit/87f3f925be6f9897b71b09a3041ec6d54be483b2"&gt;&lt;code&gt;87f3f92&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/dragomano"&gt;&lt;code&gt;@​dragomano&lt;/code&gt;&lt;/a&gt;! -
+Updates Russian UI translations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/starlight/pull/2043"&gt;#2043&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/starlight/commit/53f4cd443cf31b6135ff16eb74b5f26ee93ee2d5"&gt;&lt;code&gt;53f4cd4&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/playmr365"&gt;&lt;code&gt;@​playmr365&lt;/code&gt;&lt;/a&gt;! -
+Updates Czech UI translations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/starlight/pull/2041"&gt;#2041&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/starlight/commit/8af5a60ab14f4dae7f5a5e4ee535ae927273368b"&gt;&lt;code&gt;8af5a60&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/HiDeoo"&gt;&lt;code&gt;@​HiDeoo&lt;/code&gt;&lt;/a&gt;! -
+Fixes &lt;code&gt;&amp;lt;Steps&amp;gt;&lt;/code&gt; numbering bug caused by Chrome v126 CSS
+counter rewrite&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;code&gt;@​astrojs/starlight&lt;/code&gt;&lt;a
+href="https://github.com/0"&gt;&lt;code&gt;@​0&lt;/code&gt;&lt;/a&gt;.24.3&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/starlight/pull/2028"&gt;#2028&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/starlight/commit/af81ad38fd26c375c0372718fd3e152b7f1a0fa6"&gt;&lt;code&gt;af81ad3&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/HiDeoo"&gt;&lt;code&gt;@​HiDeoo&lt;/code&gt;&lt;/a&gt;! -
+Fixes a search dialog height issue in Safari.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/starlight/pull/2022"&gt;#2022&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/starlight/commit/80f82b15afae1366676e0c25e674210a19606df5"&gt;&lt;code&gt;80f82b1&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/playmr365"&gt;&lt;code&gt;@​playmr365&lt;/code&gt;&lt;/a&gt;! -
+Updates Czech UI translations&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/withastro/starlight/blob/main/packages/starlight/CHANGELOG.md"&gt;&lt;code&gt;@​astrojs/starlight&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;0.24.4&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/starlight/pull/2038"&gt;#2038&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/starlight/commit/87f3f925be6f9897b71b09a3041ec6d54be483b2"&gt;&lt;code&gt;87f3f92&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/dragomano"&gt;&lt;code&gt;@​dragomano&lt;/code&gt;&lt;/a&gt;! -
+Updates Russian UI translations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/starlight/pull/2043"&gt;#2043&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/starlight/commit/53f4cd443cf31b6135ff16eb74b5f26ee93ee2d5"&gt;&lt;code&gt;53f4cd4&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/playmr365"&gt;&lt;code&gt;@​playmr365&lt;/code&gt;&lt;/a&gt;! -
+Updates Czech UI translations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/starlight/pull/2041"&gt;#2041&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/starlight/commit/8af5a60ab14f4dae7f5a5e4ee535ae927273368b"&gt;&lt;code&gt;8af5a60&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/HiDeoo"&gt;&lt;code&gt;@​HiDeoo&lt;/code&gt;&lt;/a&gt;! -
+Fixes &lt;code&gt;&amp;lt;Steps&amp;gt;&lt;/code&gt; numbering bug caused by Chrome v126 CSS
+counter rewrite&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;0.24.3&lt;/h2&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/starlight/pull/2028"&gt;#2028&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/starlight/commit/af81ad38fd26c375c0372718fd3e152b7f1a0fa6"&gt;&lt;code&gt;af81ad3&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/HiDeoo"&gt;&lt;code&gt;@​HiDeoo&lt;/code&gt;&lt;/a&gt;! -
+Fixes a search dialog height issue in Safari.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/starlight/pull/2022"&gt;#2022&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/starlight/commit/80f82b15afae1366676e0c25e674210a19606df5"&gt;&lt;code&gt;80f82b1&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/playmr365"&gt;&lt;code&gt;@​playmr365&lt;/code&gt;&lt;/a&gt;! -
+Updates Czech UI translations&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/starlight/commit/ee18ce49ef509918a70026ae2c553605947870eb"&gt;&lt;code&gt;ee18ce4&lt;/code&gt;&lt;/a&gt;
+[ci] release (&lt;a
+href="https://github.com/withastro/starlight/tree/HEAD/packages/starlight/issues/2040"&gt;#2040&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/starlight/commit/39a0e4c9d50c94827b8179f7959d94edd65f1097"&gt;&lt;code&gt;39a0e4c&lt;/code&gt;&lt;/a&gt;
+[ci] format&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/starlight/commit/8af5a60ab14f4dae7f5a5e4ee535ae927273368b"&gt;&lt;code&gt;8af5a60&lt;/code&gt;&lt;/a&gt;
+Refactor &lt;code&gt;\&amp;lt;Steps&amp;gt;&lt;/code&gt; counter (&lt;a
+href="https://github.com/withastro/starlight/tree/HEAD/packages/starlight/issues/2041"&gt;#2041&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/starlight/commit/53f4cd443cf31b6135ff16eb74b5f26ee93ee2d5"&gt;&lt;code&gt;53f4cd4&lt;/code&gt;&lt;/a&gt;
+Add extended czech translation (&lt;a
+href="https://github.com/withastro/starlight/tree/HEAD/packages/starlight/issues/2043"&gt;#2043&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/starlight/commit/87f3f925be6f9897b71b09a3041ec6d54be483b2"&gt;&lt;code&gt;87f3f92&lt;/code&gt;&lt;/a&gt;
+i18n(ru): translate credits (&lt;a
+href="https://github.com/withastro/starlight/tree/HEAD/packages/starlight/issues/2038"&gt;#2038&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/starlight/commit/4ea46a043ad6407777b2769162859fb56e70a6a7"&gt;&lt;code&gt;4ea46a0&lt;/code&gt;&lt;/a&gt;
+[ci] release (&lt;a
+href="https://github.com/withastro/starlight/tree/HEAD/packages/starlight/issues/2029"&gt;#2029&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/starlight/commit/80f82b15afae1366676e0c25e674210a19606df5"&gt;&lt;code&gt;80f82b1&lt;/code&gt;&lt;/a&gt;
+Edit czech translation (&lt;a
+href="https://github.com/withastro/starlight/tree/HEAD/packages/starlight/issues/2022"&gt;#2022&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/starlight/commit/af81ad38fd26c375c0372718fd3e152b7f1a0fa6"&gt;&lt;code&gt;af81ad3&lt;/code&gt;&lt;/a&gt;
+Fix search modal height in Safari (&lt;a
+href="https://github.com/withastro/starlight/tree/HEAD/packages/starlight/issues/2028"&gt;#2028&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/withastro/starlight/commits/@astrojs/starlight@0.24.4/packages/starlight"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `astro` from 4.10.2 to 4.11.0
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/withastro/astro/releases"&gt;astro's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;astro@4.11.0&lt;/h2&gt;
+&lt;h3&gt;Minor Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/astro/pull/11197"&gt;#11197&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/astro/commit/4b46bd9bdcbb302f294aa27b8aa07099e104fa17"&gt;&lt;code&gt;4b46bd9&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/braebo"&gt;&lt;code&gt;@​braebo&lt;/code&gt;&lt;/a&gt;! -
+Adds &lt;a
+href="https://shiki.style/packages/transformers#shikijs-transformers"&gt;&lt;code&gt;ShikiTransformer&lt;/code&gt;&lt;/a&gt;
+support to the &lt;a
+href="https://docs.astro.build/en/reference/api-reference/#code-"&gt;&lt;code&gt;&amp;lt;Code
+/&amp;gt;&lt;/code&gt;&lt;/a&gt; component with a new &lt;code&gt;transformers&lt;/code&gt;
+prop.&lt;/p&gt;
+&lt;p&gt;Note that &lt;code&gt;transformers&lt;/code&gt; only applies classes and you must
+provide your own CSS rules to target the elements of your code
+block.&lt;/p&gt;
+&lt;pre lang="astro"&gt;&lt;code&gt;---
+import { transformerNotationFocus } from '@shikijs/transformers';
+import { Code } from 'astro:components';
+&lt;h2&gt;const code = &lt;code&gt;const foo = 'hello' const bar = ' world'
+console.log(foo + bar) // [!code focus] &lt;/code&gt;;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;Code {code} lang=&amp;quot;js&amp;quot;
+transformers={[transformerNotationFocus()]} /&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;style is:global&amp;gt;
+pre.has-focused .line:not(.focused) {
+filter: blur(1px);
+}
+&amp;lt;/style&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/astro/pull/11134"&gt;#11134&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/astro/commit/9042be049157ce859355f911565bc0c3d68f0aa1"&gt;&lt;code&gt;9042be0&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/florian-lefebvre"&gt;&lt;code&gt;@​florian-lefebvre&lt;/code&gt;&lt;/a&gt;!
+- Improves the developer experience of the &lt;code&gt;500.astro&lt;/code&gt; file
+by passing it a new &lt;code&gt;error&lt;/code&gt; prop.&lt;/p&gt;
+&lt;p&gt;When an error is thrown, the special &lt;code&gt;src/pages/500.astro&lt;/code&gt;
+page now automatically receives the error as a prop. This allows you to
+display more specific information about the error on a custom 500
+page.&lt;/p&gt;
+&lt;pre lang="astro"&gt;&lt;code&gt;---
+// src/pages/500.astro
+interface Props {
+  error: unknown;
+}
+&lt;h2&gt;const { error } = Astro.props;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;div&amp;gt;{error instanceof Error ? error.message : 'Unknown
+error'}&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;If an error occurs rendering this page, your host's default 500 error
+page will be shown to your visitor in production, and Astro's default
+error overlay will be shown in development.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/withastro/astro/pull/11280"&gt;#11280&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/astro/commit/fd3645fe8364ec5e280b6802d1468867890d463c"&gt;&lt;code&gt;fd3645f&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/ascorbic"&gt;&lt;code&gt;@​ascorbic&lt;/code&gt;&lt;/a&gt;! - Fixes
+a bug that prevented cookies from being set when using experimental
+rewrites&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md"&gt;astro's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;4.11.0&lt;/h2&gt;
+&lt;h3&gt;Minor Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/astro/pull/11197"&gt;#11197&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/astro/commit/4b46bd9bdcbb302f294aa27b8aa07099e104fa17"&gt;&lt;code&gt;4b46bd9&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a href="https://github.com/braebo"&gt;&lt;code&gt;@​braebo&lt;/code&gt;&lt;/a&gt;! -
+Adds &lt;a
+href="https://shiki.style/packages/transformers#shikijs-transformers"&gt;&lt;code&gt;ShikiTransformer&lt;/code&gt;&lt;/a&gt;
+support to the &lt;a
+href="https://docs.astro.build/en/reference/api-reference/#code-"&gt;&lt;code&gt;&amp;lt;Code
+/&amp;gt;&lt;/code&gt;&lt;/a&gt; component with a new &lt;code&gt;transformers&lt;/code&gt;
+prop.&lt;/p&gt;
+&lt;p&gt;Note that &lt;code&gt;transformers&lt;/code&gt; only applies classes and you must
+provide your own CSS rules to target the elements of your code
+block.&lt;/p&gt;
+&lt;pre lang="astro"&gt;&lt;code&gt;---
+import { transformerNotationFocus } from '@shikijs/transformers';
+import { Code } from 'astro:components';
+&lt;h2&gt;const code = &lt;code&gt;const foo = 'hello' const bar = ' world'
+console.log(foo + bar) // [!code focus] &lt;/code&gt;;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;Code {code} lang=&amp;quot;js&amp;quot;
+transformers={[transformerNotationFocus()]} /&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;style is:global&amp;gt;
+pre.has-focused .line:not(.focused) {
+filter: blur(1px);
+}
+&amp;lt;/style&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a
+href="https://redirect.github.com/withastro/astro/pull/11134"&gt;#11134&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/astro/commit/9042be049157ce859355f911565bc0c3d68f0aa1"&gt;&lt;code&gt;9042be0&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/florian-lefebvre"&gt;&lt;code&gt;@​florian-lefebvre&lt;/code&gt;&lt;/a&gt;!
+- Improves the developer experience of the &lt;code&gt;500.astro&lt;/code&gt; file
+by passing it a new &lt;code&gt;error&lt;/code&gt; prop.&lt;/p&gt;
+&lt;p&gt;When an error is thrown, the special &lt;code&gt;src/pages/500.astro&lt;/code&gt;
+page now automatically receives the error as a prop. This allows you to
+display more specific information about the error on a custom 500
+page.&lt;/p&gt;
+&lt;pre lang="astro"&gt;&lt;code&gt;---
+// src/pages/500.astro
+interface Props {
+  error: unknown;
+}
+&lt;h2&gt;const { error } = Astro.props;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;div&amp;gt;{error instanceof Error ? error.message : 'Unknown
+error'}&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;p&gt;If an error occurs rendering this page, your host's default 500 error
+page will be shown to your visitor in production, and Astro's default
+error overlay will be shown in development.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://redirect.github.com/withastro/astro/pull/11280"&gt;#11280&lt;/a&gt;
+&lt;a
+href="https://github.com/withastro/astro/commit/fd3645fe8364ec5e280b6802d1468867890d463c"&gt;&lt;code&gt;fd3645f&lt;/code&gt;&lt;/a&gt;
+Thanks &lt;a
+href="https://github.com/ascorbic"&gt;&lt;code&gt;@​ascorbic&lt;/code&gt;&lt;/a&gt;! - Fixes
+a bug that prevented cookies from being set when using experimental
+rewrites&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/astro/commit/58a321193e0c8c1974827d7364eae11722e15607"&gt;&lt;code&gt;58a3211&lt;/code&gt;&lt;/a&gt;
+[ci] release (&lt;a
+href="https://github.com/withastro/astro/tree/HEAD/packages/astro/issues/11276"&gt;#11276&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/astro/commit/fd3645fe8364ec5e280b6802d1468867890d463c"&gt;&lt;code&gt;fd3645f&lt;/code&gt;&lt;/a&gt;
+fix: allow cookies to be set in rewritten responses (&lt;a
+href="https://github.com/withastro/astro/tree/HEAD/packages/astro/issues/11280"&gt;#11280&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/astro/commit/7f8f34799528ed0b2011e1ea273bd0636f6e767d"&gt;&lt;code&gt;7f8f347&lt;/code&gt;&lt;/a&gt;
+bug: removes type override from defineAction (&lt;a
+href="https://github.com/withastro/astro/tree/HEAD/packages/astro/issues/11292"&gt;#11292&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/astro/commit/42a6eceab61f880ba46b6e11cd77237ef29fb324"&gt;&lt;code&gt;42a6ece&lt;/code&gt;&lt;/a&gt;
+[ci] format&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/astro/commit/5a9c9a60e7c32aa461b86b5bc667cb955e23d4d9"&gt;&lt;code&gt;5a9c9a6&lt;/code&gt;&lt;/a&gt;
+fix(astro): type generation for empty collections (&lt;a
+href="https://github.com/withastro/astro/tree/HEAD/packages/astro/issues/11264"&gt;#11264&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/astro/commit/246bd7a516e533af1b6d60dc4f9c0e0350c3be1d"&gt;&lt;code&gt;246bd7a&lt;/code&gt;&lt;/a&gt;
+[ci] format&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/astro/commit/4b46bd9bdcbb302f294aa27b8aa07099e104fa17"&gt;&lt;code&gt;4b46bd9&lt;/code&gt;&lt;/a&gt;
+feat: add &lt;code&gt;ShikiTransformer&lt;/code&gt; support to the &lt;code&gt;\&amp;lt;Code
+/&amp;gt;&lt;/code&gt; component (&lt;a
+href="https://github.com/withastro/astro/tree/HEAD/packages/astro/issues/11197"&gt;#11197&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/astro/commit/5c56324c43b20e98454544036673b66761eebf1f"&gt;&lt;code&gt;5c56324&lt;/code&gt;&lt;/a&gt;
+[ci] format&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/astro/commit/9042be049157ce859355f911565bc0c3d68f0aa1"&gt;&lt;code&gt;9042be0&lt;/code&gt;&lt;/a&gt;
+feat: 500.astro improvements (&lt;a
+href="https://github.com/withastro/astro/tree/HEAD/packages/astro/issues/11134"&gt;#11134&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/withastro/astro/commit/c44f7f4babbb19350cd673241136bc974b012d51"&gt;&lt;code&gt;c44f7f4&lt;/code&gt;&lt;/a&gt;
+[ci] format&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/withastro/astro/commits/astro@4.11.0/packages/astro"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `typescript` from 5.4.5 to 5.5.2
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/Microsoft/TypeScript/releases"&gt;typescript's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;TypeScript 5.5&lt;/h2&gt;
+&lt;p&gt;For release notes, check out the &lt;a
+href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/"&gt;release
+announcement&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the complete list of fixed issues, check out the&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Microsoft/TypeScript/issues?utf8=%E2%9C%93&amp;amp;q=is%3Aissue+milestone%3A%22TypeScript+5.5.2%22+is%3Aclosed+"&gt;fixed
+issues query for TypeScript v5.5.2 (Stable)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Microsoft/TypeScript/issues?utf8=%E2%9C%93&amp;amp;q=is%3Aissue+milestone%3A%22TypeScript+5.5.1%22+is%3Aclosed+"&gt;fixed
+issues query for TypeScript v5.5.1 (RC)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Microsoft/TypeScript/issues?utf8=%E2%9C%93&amp;amp;q=is%3Aissue+milestone%3A%22TypeScript+5.5.0%22+is%3Aclosed+"&gt;fixed
+issues query for TypeScript v5.5.0 (Beta)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Downloads are available on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.npmjs.com/package/typescript"&gt;npm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://www.nuget.org/packages/Microsoft.TypeScript.MSBuild"&gt;NuGet
+package&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;TypeScript 5.5 RC&lt;/h2&gt;
+&lt;p&gt;For release notes, check out the &lt;a
+href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/"&gt;release
+announcement&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the complete list of fixed issues, check out the&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Microsoft/TypeScript/issues?utf8=%E2%9C%93&amp;amp;q=milestone%3A%22TypeScript+5.5.0%22+is%3Aclosed+"&gt;fixed
+issues query for Typescript 5.5.0 (Beta)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Microsoft/TypeScript/issues?utf8=%E2%9C%93&amp;amp;q=milestone%3A%22TypeScript+5.5.1%22+is%3Aclosed+"&gt;fixed
+issues query for Typescript 5.5.1 (RC)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Downloads are available on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://www.nuget.org/packages/Microsoft.TypeScript.MSBuild"&gt;NuGet
+package&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;TypeScript 5.5 Beta&lt;/h2&gt;
+&lt;p&gt;For release notes, check out the &lt;a
+href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/"&gt;release
+announcement&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the complete list of fixed issues, check out the&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/Microsoft/TypeScript/issues?utf8=%E2%9C%93&amp;amp;q=milestone%3A%22TypeScript+5.5.0%22+is%3Aclosed+"&gt;fixed
+issues query for Typescript 5.5.0 (Beta)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Downloads are available on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.npmjs.com/package/typescript"&gt;npm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://www.nuget.org/packages/Microsoft.TypeScript.MSBuild"&gt;NuGet
+package&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/TypeScript/commit/ce2e60e4ea15a65992e54a9e8877d16be9d42abb"&gt;&lt;code&gt;ce2e60e&lt;/code&gt;&lt;/a&gt;
+Update LKG&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/TypeScript/commit/f3b21a2033206e585b2b7b18622104f09eb87f2e"&gt;&lt;code&gt;f3b21a2&lt;/code&gt;&lt;/a&gt;
+🤖 Pick PR &lt;a
+href="https://redirect.github.com/Microsoft/TypeScript/issues/58931"&gt;#58931&lt;/a&gt;
+(Defer creation of barebonesLibSourc...) into release-5.5 (#...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/TypeScript/commit/7b1620bea227ea47f8944a2b02a7ed91691c3046"&gt;&lt;code&gt;7b1620b&lt;/code&gt;&lt;/a&gt;
+🤖 Pick PR &lt;a
+href="https://redirect.github.com/Microsoft/TypeScript/issues/58811"&gt;#58811&lt;/a&gt;
+(fix(58801): &amp;quot;Move to file&amp;quot; on globa...) into release-5.5
+(#...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/TypeScript/commit/5367ae10f58edfacd6d3b1e77bd05576036b8ca2"&gt;&lt;code&gt;5367ae1&lt;/code&gt;&lt;/a&gt;
+Bump version to 5.5.2 and LKG&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/TypeScript/commit/02132e5b8183b0ee73e52d75ff6e28ff0c9fe3d2"&gt;&lt;code&gt;02132e5&lt;/code&gt;&lt;/a&gt;
+🤖 Pick PR &lt;a
+href="https://redirect.github.com/Microsoft/TypeScript/issues/58895"&gt;#58895&lt;/a&gt;
+(Fix global when typescript.js loade...) into release-5.5 (#...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/TypeScript/commit/45b1e3c25444c4193cefb4ca97dfd1064f75a561"&gt;&lt;code&gt;45b1e3c&lt;/code&gt;&lt;/a&gt;
+🤖 Pick PR &lt;a
+href="https://redirect.github.com/Microsoft/TypeScript/issues/58872"&gt;#58872&lt;/a&gt;
+(Fix declaration emit crash) into release-5.5 (&lt;a
+href="https://redirect.github.com/Microsoft/TypeScript/issues/58874"&gt;#58874&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/TypeScript/commit/17933ee33af4a3c44233820abf8bdb0ad2bf143a"&gt;&lt;code&gt;17933ee&lt;/code&gt;&lt;/a&gt;
+🤖 Pick PR &lt;a
+href="https://redirect.github.com/Microsoft/TypeScript/issues/58810"&gt;#58810&lt;/a&gt;
+(Fixed declaration emit issue relate...) into release-5.5 (#...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/TypeScript/commit/552b07e795ec5db98c37fd4ace730133bbf0e781"&gt;&lt;code&gt;552b07e&lt;/code&gt;&lt;/a&gt;
+🤖 Pick PR &lt;a
+href="https://redirect.github.com/Microsoft/TypeScript/issues/58786"&gt;#58786&lt;/a&gt;
+(Fixed declaration emit crash relate...) into release-5.5 (#...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/TypeScript/commit/39c9eebf1707b194b525a4c471b8b6bfe3f52642"&gt;&lt;code&gt;39c9eeb&lt;/code&gt;&lt;/a&gt;
+Pick &lt;a
+href="https://redirect.github.com/Microsoft/TypeScript/issues/58857"&gt;#58857&lt;/a&gt;
+to release-5.5 (&lt;a
+href="https://redirect.github.com/Microsoft/TypeScript/issues/58858"&gt;#58858&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/microsoft/TypeScript/commit/2b0009c6790d66bbc943fc3975eb8bc9e8dec83f"&gt;&lt;code&gt;2b0009c&lt;/code&gt;&lt;/a&gt;
+🤖 Pick PR &lt;a
+href="https://redirect.github.com/Microsoft/TypeScript/issues/58846"&gt;#58846&lt;/a&gt;
+(Ensure the updates with crashes rev...) into release-5.5 (#...&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/Microsoft/TypeScript/compare/v5.4.5...v5.5.2"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `prettier-plugin-svelte` from 3.2.4 to 3.2.5
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sveltejs/prettier-plugin-svelte/blob/master/CHANGELOG.md"&gt;prettier-plugin-svelte's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;3.2.5&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(fix) Svelte 5: format TypeScript in the template&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sveltejs/prettier-plugin-svelte/commit/10caec616fdcc7ab099e9642b2d013b59e71020d"&gt;&lt;code&gt;10caec6&lt;/code&gt;&lt;/a&gt;
+chore: release 3.2.5&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sveltejs/prettier-plugin-svelte/commit/6a1e4d5eea23565ba846072bff35304c046c25e0"&gt;&lt;code&gt;6a1e4d5&lt;/code&gt;&lt;/a&gt;
+fix: format TS in the template&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sveltejs/prettier-plugin-svelte/commit/c10a57003c6ea6b0e572c402490672cd6267a8b7"&gt;&lt;code&gt;c10a570&lt;/code&gt;&lt;/a&gt;
+chore(deps-dev): bump braces from 3.0.2 to 3.0.3 (&lt;a
+href="https://redirect.github.com/sveltejs/prettier-plugin-svelte/issues/446"&gt;#446&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/sveltejs/prettier-plugin-svelte/compare/v3.2.4...v3.2.5"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `prettier-plugin-tailwindcss` from 0.6.4 to 0.6.5
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/tailwindlabs/prettier-plugin-tailwindcss/releases"&gt;prettier-plugin-tailwindcss's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v0.6.5&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Only re-apply string escaping when necessary (&lt;a
+href="https://redirect.github.com/tailwindlabs/prettier-plugin-tailwindcss/pull/295"&gt;#295&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/tailwindlabs/prettier-plugin-tailwindcss/blob/main/CHANGELOG.md"&gt;prettier-plugin-tailwindcss's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;[0.6.5] - 2024-06-17&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Only re-apply string escaping when necessary (&lt;a
+href="https://redirect.github.com/tailwindlabs/prettier-plugin-tailwindcss/pull/295"&gt;#295&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/tailwindlabs/prettier-plugin-tailwindcss/commit/efea6f924c2e57fa8f8169231e802466bb5fe9ce"&gt;&lt;code&gt;efea6f9&lt;/code&gt;&lt;/a&gt;
+0.6.5&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/tailwindlabs/prettier-plugin-tailwindcss/commit/642a97cd863f9701307aea26996976c7e332738c"&gt;&lt;code&gt;642a97c&lt;/code&gt;&lt;/a&gt;
+Update changelog&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/tailwindlabs/prettier-plugin-tailwindcss/commit/a5506a9fe2be2b30d9fb9bfbb66a527b7cfd566a"&gt;&lt;code&gt;a5506a9&lt;/code&gt;&lt;/a&gt;
+Only re-apply string escaping when necessary (&lt;a
+href="https://redirect.github.com/tailwindlabs/prettier-plugin-tailwindcss/issues/295"&gt;#295&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/tailwindlabs/prettier-plugin-tailwindcss/commit/ec92b764816500ec7169de612e1d6ec7d2f7c176"&gt;&lt;code&gt;ec92b76&lt;/code&gt;&lt;/a&gt;
+Tweak readme&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/tailwindlabs/prettier-plugin-tailwindcss/compare/v0.6.4...v0.6.5"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore &lt;dependency name&gt; major version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's major version (unless you unignore this specific
+dependency's major version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt; minor version` will close this
+group update PR and stop Dependabot creating any more for the specific
+dependency's minor version (unless you unignore this specific
+dependency's minor version or upgrade to it yourself)
+- `@dependabot ignore &lt;dependency name&gt;` will close this group update PR
+and stop Dependabot creating any more for the specific dependency
+(unless you unignore this specific dependency or upgrade to it yourself)
+- `@dependabot unignore &lt;dependency name&gt;` will remove all of the ignore
+conditions of the specified dependency
+- `@dependabot unignore &lt;dependency name&gt; &lt;ignore condition&gt;` will
+remove the ignore condition of the specified dependency and ignore
+conditions
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#718 Migrating to windows-sys</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by WanderLanz in <span class="repo">crossterm-rs/crossterm</span></div>
-                                    <div class="comment">
-                                        It looks like everything except for socket2 now uses windows-sys/windows-target (part of the same dependency tree). The latest version of socket2 also uses windows-sys. Moving away from winapi is definitely be the right path forward here.
-                                        <code class="language-multiline" xml:space="preserve">winapi v0.3.9
-├── crossterm v0.27.0 (/Users/joshka/local/crossterm)
-<span class="token trimmed">(9 more lines were trimmed)</span></code>
-                                        <code class="language-multiline" xml:space="preserve">windows-sys v0.48.0
-├── io-lifetimes v1.0.11
-<span class="token trimmed">(16 more lines were trimmed)</span></code>
-                                        <code class="language-multiline" xml:space="preserve">windows-sys v0.52.0
-├── async-io v2.3.3
-<span class="token trimmed">(19 more lines were trimmed)</span></code>
-                                        <code class="language-multiline" xml:space="preserve">windows-targets v0.48.5
-└── windows-sys v0.48.0
-<span class="token trimmed">(17 more lines were trimmed)</span></code>
-                                        <code class="language-multiline" xml:space="preserve">windows-targets v0.52.5
-├── parking_lot_core v0.9.10
-<span class="token trimmed">(29 more lines were trimmed)</span></code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1196 chore(release): prepare for 0.27.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by orhun in <span class="repo">ratatui-org/ratatui</span></div>
-                                    <div class="comment">This PR seems to be introducing windows style newlines for some reason - can you please change these to unix style newlines so it doesn't show up as a huge edit?</div>
                                 </div>
                             </section>
                         </div>
@@ -1723,9 +2322,62 @@ It would be interesting to see if it helps the main crossterm crate as well. Tim
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">jm/fix-itertools2</span>
+                                        <span class="code">dependabot/npm_and_yarn/npm-dependencies-0008ea8f83</span>
                                         in
-                                        <span class="repo">joshka/strum</span>
+                                        <span class="repo">ratatui-org/ratatui-website</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/cargo/calloop-3ce54aa</span>
+                                        in
+                                        <span class="repo">joshka/ratatui-calloop</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">joshka/ratatui-calloop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2916109</div>
+                                        <div class="message">Merge pull request #2 from joshka/dependabot/cargo/calloop-3ce54aa
+
+Bump calloop from `95df821` to `3ce54aa`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1165ba</div>
+                                        <div class="message">Bump calloop from `95df821` to `3ce54aa`
+
+Bumps [calloop](https://github.com/joshka/calloop) from `95df821` to `3ce54aa`.
+- [Commits](https://github.com/joshka/calloop/compare/95df821f8b21e8450179e06d44e662608fc09cfa...3ce54aa9299901e0422affcc19e9eb93730f6e02)
+
+---
+updated-dependencies:
+- dependency-name: calloop
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1738,19 +2390,12 @@ It would be interesting to see if it helps the main crossterm crate as well. Tim
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#365 fix: require strum_macros 0.26.3</span>
+                                        <span class="issue">#193 InsertError tends to be non-Send / Sync</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by joshka in <span class="repo">Peternator7/strum</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            Makes sense to me. Just pushed version
-                                            <code>0.26.3</code>
-                                            of strum to crates
-                                        </i>
-                                        Thanks - this compiles properly in a downstream repo :)
-                                    </div>
+                                    <div>opened by joshka in <span class="repo">Smithay/calloop</span></div>
+                                    <div class="comment">Makes sense - thanks for that.</div>
                                 </div>
                             </section>
                         </div>
@@ -1876,7 +2521,7 @@ It would be interesting to see if it helps the main crossterm crate as well. Tim
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 57.2k out of 139m users</span>
+                                    <span class="gh">ranked 57.2k out of 137m users</span>
                                 </div>
                                 <div class="text">Published 190 public repositories</div>
                             </div>
@@ -1923,7 +2568,7 @@ It would be interesting to see if it helps the main crossterm crate as well. Tim
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="111.321 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="111.383 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1946,9 +2591,9 @@ It would be interesting to see if it helps the main crossterm crate as well. Tim
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.49k out of 169m repositories</span>
+                                    <span class="gh">ranked 4.49k out of 203m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8591 stars</div>
+                                <div class="text">Maintaining a repository with 8593 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2213,7 +2858,7 @@ It would be interesting to see if it helps the main crossterm crate as well. Tim
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 106k out of 139m users</span>
+                                    <span class="gh">ranked 106k out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 104 users</div>
                             </div>
@@ -2325,7 +2970,7 @@ It would be interesting to see if it helps the main crossterm crate as well. Tim
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.03m out of 169m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2442,7 +3087,7 @@ It would be interesting to see if it helps the main crossterm crate as well. Tim
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jun 2024, 03:05:21 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2024, 04:05:43 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
