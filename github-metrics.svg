@@ -1967,7 +1967,7 @@ Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norep
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="112.43700000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="112.53 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1990,9 +1990,9 @@ Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norep
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.46k out of 207m repositories</span>
+                                    <span class="gh">ranked 4.46k out of 193m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8627 stars</div>
+                                <div class="text">Maintaining a repository with 8630 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2369,7 +2369,7 @@ Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norep
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.03m out of 207m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 193m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2486,7 +2486,7 @@ Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norep
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2024, 00:04:28 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2024, 01:05:57 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
