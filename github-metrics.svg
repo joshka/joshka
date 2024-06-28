@@ -522,7 +522,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 32.4 characters per line of code written</li>
+                        <li>Has approximately 32.5 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -1934,7 +1934,7 @@ RUSTDOCFLAGS="--cfg docsrs" \
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.26599999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.29700000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1957,9 +1957,9 @@ RUSTDOCFLAGS="--cfg docsrs" \
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.42k out of 211m repositories</span>
+                                    <span class="gh">ranked 4.42k out of 207m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8686 stars</div>
+                                <div class="text">Maintaining a repository with 8687 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2336,7 +2336,7 @@ RUSTDOCFLAGS="--cfg docsrs" \
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.03m out of 211m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2453,7 +2453,7 @@ RUSTDOCFLAGS="--cfg docsrs" \
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2024, 18:30:57 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2024, 19:17:13 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
