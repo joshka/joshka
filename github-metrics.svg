@@ -1944,7 +1944,7 @@ https://forum.ratatui.rs/t/understanding-tokio-spawn-and-tokio-spawn-blocking/74
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.36k out of 211m repositories</span>
+                                    <span class="gh">ranked 4.36k out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8797 stars</div>
                             </div>
@@ -2323,7 +2323,7 @@ https://forum.ratatui.rs/t/understanding-tokio-spawn-and-tokio-spawn-blocking/74
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.03m out of 211m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2440,7 +2440,7 @@ https://forum.ratatui.rs/t/understanding-tokio-spawn-and-tokio-spawn-blocking/74
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2024, 13:04:26 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2024, 14:05:16 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
