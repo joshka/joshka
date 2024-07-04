@@ -1926,7 +1926,7 @@ https://forum.ratatui.rs/t/understanding-tokio-spawn-and-tokio-spawn-blocking/74
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="118.048 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="118.07900000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1949,9 +1949,9 @@ https://forum.ratatui.rs/t/understanding-tokio-spawn-and-tokio-spawn-blocking/74
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 4.35k out of 183m repositories</span>
+                                    <span class="gh">ranked 4.35k out of 196m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 8808 stars</div>
+                                <div class="text">Maintaining a repository with 8809 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2328,7 +2328,7 @@ https://forum.ratatui.rs/t/understanding-tokio-spawn-and-tokio-spawn-blocking/74
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.03m out of 183m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -2445,7 +2445,7 @@ https://forum.ratatui.rs/t/understanding-tokio-spawn-and-tokio-spawn-blocking/74
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2024, 03:04:47 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2024, 04:05:07 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
