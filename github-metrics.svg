@@ -36,9 +36,9 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
@@ -71,14 +71,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.76055186015967" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="229.76055186015967" y="0" width="135.66066061123405" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="365.4212124713937" y="0" width="83.92503885637598" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.3462513277697" y="0" width="7.005242817049576" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="456.3514941448193" y="0" width="1.8061618216679889" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="458.15765596648725" y="0" width="1.2460548065913166" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.40371077307856" y="0" width="0.3931428436786034" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.7968536167572" y="0" width="0.20314638324280562" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.8620641361901" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="229.8620641361901" y="0" width="135.7205978907842" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="365.5826620269743" y="0" width="83.96211842308698" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.5447804500613" y="0" width="7.008337857241408" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="456.5531183073027" y="0" width="1.8069598159098743" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="458.3600781232126" y="0" width="1.2466053356462463" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.60668345885887" y="0" width="0.39331654114121734" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -122,12 +121,6 @@
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Batchfile
                     </div>
                 </div>
             </section>
