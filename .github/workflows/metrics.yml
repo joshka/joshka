@@ -27,17 +27,9 @@ jobs:
           # Options
           user: joshka
           template: classic
-          base: header, activity, repositories
+          base: header
           base_hireable: yes
           config_timezone: America/Los_Angeles
-          plugin_habits: yes
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_from: 1000
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_ignored: php, html, css
           plugin_notable: yes
