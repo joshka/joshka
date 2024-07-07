@@ -30,14 +30,6 @@ jobs:
           base: header, activity, repositories
           base_hireable: yes
           config_timezone: America/Los_Angeles
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_discussions: yes
-          plugin_discussions_categories: no
           plugin_habits: yes
           plugin_habits_days: 30
           plugin_habits_facts: yes
