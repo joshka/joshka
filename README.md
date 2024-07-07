@@ -1,3 +1,7 @@
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 # Crates
 
 ## ratatui
@@ -44,6 +48,23 @@
 [![GitHub Issues](https://img.shields.io/github/issues/joshka/ja?style=for-the-badge&logo=github)](https://github.com/joshka/ja/issues)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/ja?style=for-the-badge&logo=github)](https://github.com/joshka/ja/pulls)
 
+## keybinding
+
+[![Static Badge](https://img.shields.io/badge/Repo-joshka/keybinding-blue?style=for-the-badge&logo=github)](https://github.com/joshka/keybinding)
+[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/keybinding?style=for-the-badge&logo=github)](https://github.com/joshka/keybinding)
+[![Crates.io Version](https://img.shields.io/crates/v/keybinding?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/keybinding)
+[![Crates.io Total Downloads](https://img.shields.io/crates/d/keybinding?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/keybinding)  \
+[![Docs.rs](https://img.shields.io/docsrs/keybinding?style=for-the-badge&logo=rust)](https://docs.rs/crate/keybinding/)
+[![GitHub Issues](https://img.shields.io/github/issues/joshka/keybinding?style=for-the-badge&logo=github)](https://github.com/joshka/keybinding/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/keybinding?style=for-the-badge&logo=github)](https://github.com/joshka/keybinding/pulls)
+
+## pong-russh
+
+[![Static Badge](https://img.shields.io/badge/Repo-joshka/pong--russh-blue?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh)
+[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/pong-russh?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh)
+[![GitHub Issues](https://img.shields.io/github/issues/joshka/pong-russh?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/pong-russh?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh/pulls)
+
 ## nitidus
 
 [![Static Badge](https://img.shields.io/badge/Repo-joshka/nitidus-blue?style=for-the-badge&logo=github)](https://github.com/joshka/nitidus)
@@ -77,6 +98,15 @@
 [![GitHub Issues](https://img.shields.io/github/issues/joshka/ratatui-widgets?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-widgets/issues)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/ratatui-widgets?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-widgets/pulls)
 
+## tooters
+
+[![Static Badge](https://img.shields.io/badge/Repo-joshka/tooters-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tooters)
+[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tooters?style=for-the-badge&logo=github)](https://github.com/joshka/tooters)
+[![Crates.io Version](https://img.shields.io/crates/v/tooters?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tooters)
+[![Crates.io Total Downloads](https://img.shields.io/crates/d/tooters?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tooters)  \
+[![GitHub Issues](https://img.shields.io/github/issues/joshka/tooters?style=for-the-badge&logo=github)](https://github.com/joshka/tooters/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tooters?style=for-the-badge&logo=github)](https://github.com/joshka/tooters/pulls)
+
 ## tui-big-text
 
 [![Static Badge](https://img.shields.io/badge/Repo-joshka/tui--big--text-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tui-big-text)
@@ -87,6 +117,24 @@
 [![Docs.rs](https://img.shields.io/docsrs/tui-big-text?style=for-the-badge&logo=rust)](https://docs.rs/crate/tui-big-text/)
 [![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-big-text?style=for-the-badge&logo=github)](https://github.com/joshka/tui-big-text/issues)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-big-text?style=for-the-badge&logo=github)](https://github.com/joshka/tui-big-text/pulls)
+
+## tui-brulee
+
+[![Static Badge](https://img.shields.io/badge/Repo-joshka/tui--brulee-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tui-brulee)
+[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tui-brulee?style=for-the-badge&logo=github)](https://github.com/joshka/tui-brulee)
+[![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-brulee?style=for-the-badge&logo=github)](https://github.com/joshka/tui-brulee/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-brulee?style=for-the-badge&logo=github)](https://github.com/joshka/tui-brulee/pulls)
+
+## tui-macros
+
+[![Static Badge](https://img.shields.io/badge/Repo-joshka/tui--macros-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros)
+[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tui-macros?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros)
+[![Crates.io Version](https://img.shields.io/crates/v/tui-macros?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-macros)
+[![Crates.io Total Downloads](https://img.shields.io/crates/d/tui-macros?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-macros)  \
+<!-- [![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/tui-macros/ci.yml?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros/actions/workflows/test.yml) -->
+[![Docs.rs](https://img.shields.io/docsrs/tui-macros?style=for-the-badge&logo=rust)](https://docs.rs/crate/tui-macros/)
+[![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-macros?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-macros?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros/pulls)
 
 ## tui-markdown
 
@@ -132,6 +180,9 @@
 [![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-scrollview?style=for-the-badge&logo=github)](https://github.com/joshka/tui-scrollview/issues)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-scrollview?style=for-the-badge&logo=github)](https://github.com/joshka/tui-scrollview/pulls)
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+## xkcdwat
+
+[![Static Badge](https://img.shields.io/badge/Repo-joshka/xkcdwat-blue?style=for-the-badge&logo=github)](https://github.com/joshka/xkcdwat)
+[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/xkcdwat?style=for-the-badge&logo=github)](https://github.com/joshka/xkcdwat)
+[![GitHub Issues](https://img.shields.io/github/issues/joshka/xkcdwat?style=for-the-badge&logo=github)](https://github.com/joshka/xkcdwat/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/xkcdwat?style=for-the-badge&logo=github)](https://github.com/joshka/xkcdwat/pulls)
