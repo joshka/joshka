@@ -39,10 +39,9 @@ jobs:
           plugin_discussions: yes
           plugin_discussions_categories: no
           plugin_habits: yes
-          plugin_habits_charts_type: graph
-          plugin_habits_days: 14
+          plugin_habits_days: 30
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 1000
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
