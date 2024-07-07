@@ -72,7 +72,6 @@
 [![Crates.io Version](https://img.shields.io/crates/v/nitidus?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/nitidus)
 [![Crates.io Total Downloads](https://img.shields.io/crates/d/nitidus?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/nitidus)  \
 [![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/nitidus/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/nitidus/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/nitidus?style=for-the-badge&logo=rust)](https://docs.rs/crate/nitidus/)
 [![GitHub Issues](https://img.shields.io/github/issues/joshka/nitidus?style=for-the-badge&logo=github)](https://github.com/joshka/nitidus/issues)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/nitidus?style=for-the-badge&logo=github)](https://github.com/joshka/nitidus/pulls)
 
