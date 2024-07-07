@@ -27,11 +27,9 @@ jobs:
           # Options
           user: joshka
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
           base_hireable: yes
           config_timezone: America/Los_Angeles
-          plugin_achievements: yes
-          plugin_achievements_display: compact
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -40,9 +38,6 @@ jobs:
           plugin_activity_visibility: all
           plugin_discussions: yes
           plugin_discussions_categories: no
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts_type: graph
           plugin_habits_days: 14
@@ -56,3 +51,4 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
+          plugin_notable_indepth: yes
