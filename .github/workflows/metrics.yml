@@ -31,7 +31,7 @@ jobs:
           base_hireable: yes
           config_timezone: America/Los_Angeles
           plugin_languages: yes
-          plugin_languages_ignored: php, html, css, scss
+          plugin_languages_ignored: php, html, css, scss, powershell
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
