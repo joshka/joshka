@@ -28,15 +28,6 @@
 
 ## Ratatui related
 
-[![Static Badge](https://img.shields.io/badge/Repo-ratatui--org/ratatui-blue?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui)
-[![GitHub Repo stars](https://img.shields.io/github/stars/ratatui-org/ratatui?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui)
-[![Crates.io Version](https://img.shields.io/crates/v/ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/ratatui-org/ratatui/ci.yml?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/ratatui?style=for-the-badge&logo=rust)](https://docs.rs/crate/ratatui/)
-[![GitHub Issues](https://img.shields.io/github/issues/ratatui-org/ratatui?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/ratatui-org/ratatui?style=for-the-badge&logo=github)](https://github.com/joshka/bevy_ratatui/pulls)
-
 ### bevy_ratatui
 
 [![Static Badge](https://img.shields.io/badge/Repo-joshka/bevy__ratatui-blue?style=for-the-badge&logo=github)](https://github.com/joshka/bevy_ratatui)
