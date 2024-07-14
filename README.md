@@ -113,10 +113,10 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tui-macros?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros)
 [![Crates.io Version](https://img.shields.io/crates/v/tui-macros?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-macros)
 [![Crates.io Total Downloads](https://img.shields.io/crates/d/tui-macros?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-macros)  \
-<!-- [![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/tui-macros/ci.yml?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros/actions/workflows/test.yml) -->
 [![Docs.rs](https://img.shields.io/docsrs/tui-macros?style=for-the-badge&logo=rust)](https://docs.rs/crate/tui-macros/)
 [![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-macros?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros/issues)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-macros?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros/pulls)
+<!-- [![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/tui-macros/ci.yml?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros/actions/workflows/test.yml) -->
 
 ### tui-markdown
 
