@@ -4,119 +4,51 @@
 
 <!-- # Repo Dashboard -->
 
-## Ratatui-org
+## Ratatui
 
-### Ratatui
+[![Repo](https://img.shields.io/badge/Repo-ratatui/ratatui-blue?style=for-the-badge&logo=github)](https://github.com/ratatui/ratatui)
+[![Build](https://img.shields.io/github/actions/workflow/status/ratatui/ratatui/ci.yml?style=for-the-badge&logo=github)](https://github.com/ratatui/ratatui/actions/workflows/test.yml)
+[![Issues](https://img.shields.io/github/issues/ratatui/ratatui?style=for-the-badge&logo=github)](https://github.com/ratatui/ratatui/issues)
+[![PRs](https://img.shields.io/github/issues-pr/ratatui/ratatui?style=for-the-badge&logo=github)](https://github.com/ratatui/ratatui/pulls)
+[![Crate](https://img.shields.io/crates/v/ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui)
+[![Docs](https://img.shields.io/badge/Docs-ratatui-blue?style=for-the-badge&logo=rust)](https://docs.rs/crate/ratatui/)
+[![Stars](https://img.shields.io/github/stars/ratatui/ratatui?style=for-the-badge&logo=github)](https://github.com/ratatui/ratatui)
+[![Downloads](https://img.shields.io/crates/d/ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui)
 
-[![Static Badge](https://img.shields.io/badge/Repo-ratatui--org/ratatui-blue?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui)
-[![GitHub Repo stars](https://img.shields.io/github/stars/ratatui-org/ratatui?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui)
-[![Crates.io Version](https://img.shields.io/crates/v/ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/ratatui-org/ratatui/ci.yml?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/ratatui?style=for-the-badge&logo=rust)](https://docs.rs/crate/ratatui/)
-[![GitHub Issues](https://img.shields.io/github/issues/ratatui-org/ratatui?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/ratatui-org/ratatui?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui/pulls)
+[![Repo](https://img.shields.io/badge/Repo-ratatui/ratatui--website-blue?style=for-the-badge&logo=github)](https://github.com/ratatui/ratatui-website)
+[![Rust Build](https://img.shields.io/github/actions/workflow/status/ratatui/ratatui-website/rust-ci.yml?style=for-the-badge&logo=github&label=Rust+CI
+)](https://github.com/ratatui/ratatui-website/actions/workflows/rust-ci.yml)
+[![NPM Build](https://img.shields.io/github/actions/workflow/status/ratatui/ratatui-website/npm-ci.yml?style=for-the-badge&logo=github&label=NPM+CI)](https://github.com/ratatui/ratatui-website/actions/workflows/npm-ci.yml)
+[![Issues](https://img.shields.io/github/issues/ratatui/ratatui-website?style=for-the-badge&logo=github)](https://github.com/ratatui/ratatui-website/issues)
+[![PRs](https://img.shields.io/github/issues-pr/ratatui/ratatui-website?style=for-the-badge&logo=github)](https://github.com/ratatui/ratatui-website/pulls)
 
-### Ratatui-website
+[![Repo](https://img.shields.io/badge/Repo-ratatui/crates--tui-blue?style=for-the-badge&logo=github)](https://github.com/ratatui/crates-tui)
+[![Build](https://img.shields.io/github/actions/workflow/status/ratatui/crates-tui/ci.yml?style=for-the-badge&logo=github)](https://github.com/ratatui/crates-tui/actions/workflows/test.yml)
+[![Issues](https://img.shields.io/github/issues/ratatui/crates-tui?style=for-the-badge&logo=github)](https://github.com/ratatui/crates-tui/issues)
+[![PRs](https://img.shields.io/github/issues-pr/ratatui/crates-tui?style=for-the-badge&logo=github)](https://github.com/ratatui/crates-tui/pulls)
+[![Crate](https://img.shields.io/crates/v/crates-tui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/crates-tui)
+[![Stars](https://img.shields.io/github/stars/ratatui/crates-tui?style=for-the-badge&logo=github)](https://github.com/ratatui/crates-tui)
+[![Downloads](https://img.shields.io/crates/d/ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui)
 
-[![Static Badge](https://img.shields.io/badge/Repo-ratatui--org/ratatui--website-blue?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui-website)
-[![GitHub Repo stars](https://img.shields.io/github/stars/ratatui-org/ratatui-website?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui-website)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/ratatui-org/ratatui-website/rust-ci.yml?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui-website/actions/workflows/rust-ci.yml)
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/ratatui-org/ratatui-website/npm-ci.yml?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui-website/actions/workflows/npm-ci.yml)
-[![GitHub Issues](https://img.shields.io/github/issues/ratatui-org/ratatui-website?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui-website/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/ratatui-org/ratatui-website?style=for-the-badge&logo=github)](https://github.com/ratatui-org/ratatui-website/pulls)
+[![Repo](https://img.shields.io/badge/Repo-ratatui/instability-blue?style=for-the-badge&logo=github)](https://github.com/ratatui/instability)
+[![Build](https://img.shields.io/github/actions/workflow/status/ratatui/instability/check.yml?style=for-the-badge&logo=github)](https://github.com/ratatui/instability/actions/workflows/test.yml)
+[![Issues](https://img.shields.io/github/issues/ratatui/instability?style=for-the-badge&logo=github)](https://github.com/ratatui/instability/issues)
+[![PRs](https://img.shields.io/github/issues-pr/ratatui/instability?style=for-the-badge&logo=github)](https://github.com/ratatui/instability/pulls)
+[![Crate](https://img.shields.io/crates/v/instability?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/instability)
+[![Docs](https://img.shields.io/badge/Docs-instability-blue?style=for-the-badge&logo=rust)](https://docs.rs/crate/instability/)
+[![Stars](https://img.shields.io/github/stars/ratatui/instability?style=for-the-badge&logo=github)](https://github.com/ratatui/instability)
+[![Downloads](https://img.shields.io/crates/d/ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui)
+
+[![Repo](https://img.shields.io/badge/Repo-ratatui/templates-blue?style=for-the-badge&logo=github)](https://github.com/ratatui/templates)
+[![Build](https://img.shields.io/github/actions/workflow/status/ratatui/templates/ci.yml?style=for-the-badge&logo=github)](https://github.com/ratatui/templates/actions/workflows/test.yml)
+[![Issues](https://img.shields.io/github/issues/ratatui/templates?style=for-the-badge&logo=github)](https://github.com/ratatui/templates/issues)
+[![PRs](https://img.shields.io/github/issues-pr/ratatui/templates?style=for-the-badge&logo=github)](https://github.com/ratatui/templates/pulls)
+[![Crate](https://img.shields.io/crates/v/templates?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/templates)
+[![Docs](https://img.shields.io/badge/Docs-templates-blue?style=for-the-badge&logo=rust)](https://docs.rs/crate/templates/)
+[![Stars](https://img.shields.io/github/stars/ratatui/templates?style=for-the-badge&logo=github)](https://github.com/ratatui/templates)
+[![Downloads](https://img.shields.io/crates/d/ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui)
 
 ## Ratatui related
-
-### bevy_ratatui
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/bevy__ratatui-blue?style=for-the-badge&logo=github)](https://github.com/joshka/bevy_ratatui)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/bevy_ratatui?style=for-the-badge&logo=github)](https://github.com/joshka/bevy_ratatui)
-[![Crates.io Version](https://img.shields.io/crates/v/bevy_ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/bevy_ratatui)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/bevy_ratatui?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/bevy_ratatui)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/bevy_ratatui/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/bevy_ratatui/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/bevy_ratatui?style=for-the-badge&logo=rust)](https://docs.rs/crate/bevy_ratatui/)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/bevy_ratatui?style=for-the-badge&logo=github)](https://github.com/joshka/bevy_ratatui/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/bevy_ratatui?style=for-the-badge&logo=github)](https://github.com/joshka/bevy_ratatui/pulls)
-
-### focusable
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/focusable-blue?style=for-the-badge&logo=github)](https://github.com/joshka/focusable)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/focusable?style=for-the-badge&logo=github)](https://github.com/joshka/focusable)
-[![Crates.io Version](https://img.shields.io/crates/v/focusable?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/focusable)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/focusable?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/focusable)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/focusable/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/focusable/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/focusable?style=for-the-badge&logo=rust)](https://docs.rs/crate/focusable/)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/focusable?style=for-the-badge&logo=github)](https://github.com/joshka/focusable/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/focusable?style=for-the-badge&logo=github)](https://github.com/joshka/focusable/pulls)
-
-### keybinding
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/keybinding-blue?style=for-the-badge&logo=github)](https://github.com/joshka/keybinding)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/keybinding?style=for-the-badge&logo=github)](https://github.com/joshka/keybinding)
-[![Crates.io Version](https://img.shields.io/crates/v/keybinding?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/keybinding)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/keybinding?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/keybinding)  \
-[![Docs.rs](https://img.shields.io/docsrs/keybinding?style=for-the-badge&logo=rust)](https://docs.rs/crate/keybinding/)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/keybinding?style=for-the-badge&logo=github)](https://github.com/joshka/keybinding/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/keybinding?style=for-the-badge&logo=github)](https://github.com/joshka/keybinding/pulls)
-
-### pong-russh
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/pong--russh-blue?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/pong-russh?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/pong-russh?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/pong-russh?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh/pulls)
-
-### ratatui-calloop
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/ratatui--calloop-blue?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-calloop)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/ratatui-calloop?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-calloop)
-[![Crates.io Version](https://img.shields.io/crates/v/ratatui-calloop?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui-calloop)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/ratatui-calloop?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui-calloop)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/ratatui-calloop/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-calloop/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/ratatui-calloop?style=for-the-badge&logo=rust)](https://docs.rs/crate/ratatui-calloop/)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/ratatui-calloop?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-calloop/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/ratatui-calloop?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-calloop/pulls)
-
-### ratatui-widgets
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/ratatui--widgets-blue?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-widgets)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/ratatui-widgets?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-widgets)
-[![Crates.io Version](https://img.shields.io/crates/v/ratatui-widgets?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui-widgets)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/ratatui-widgets?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/ratatui-widgets)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/ratatui-widgets/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-widgets/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/ratatui-widgets?style=for-the-badge&logo=rust)](https://docs.rs/crate/ratatui-widgets/)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/ratatui-widgets?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-widgets/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/ratatui-widgets?style=for-the-badge&logo=github)](https://github.com/joshka/ratatui-widgets/pulls)
-
-### tui-big-text
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/tui--big--text-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tui-big-text)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tui-big-text?style=for-the-badge&logo=github)](https://github.com/joshka/tui-big-text)
-[![Crates.io Version](https://img.shields.io/crates/v/tui-big-text?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-big-text)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/tui-big-text?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-big-text)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/tui-big-text/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/tui-big-text/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/tui-big-text?style=for-the-badge&logo=rust)](https://docs.rs/crate/tui-big-text/)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-big-text?style=for-the-badge&logo=github)](https://github.com/joshka/tui-big-text/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-big-text?style=for-the-badge&logo=github)](https://github.com/joshka/tui-big-text/pulls)
-
-### tui-brulee
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/tui--brulee-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tui-brulee)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tui-brulee?style=for-the-badge&logo=github)](https://github.com/joshka/tui-brulee)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-brulee?style=for-the-badge&logo=github)](https://github.com/joshka/tui-brulee/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-brulee?style=for-the-badge&logo=github)](https://github.com/joshka/tui-brulee/pulls)
-
-### tui-macros
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/tui--macros-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tui-macros?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros)
-[![Crates.io Version](https://img.shields.io/crates/v/tui-macros?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-macros)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/tui-macros?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-macros)  \
-[![Docs.rs](https://img.shields.io/docsrs/tui-macros?style=for-the-badge&logo=rust)](https://docs.rs/crate/tui-macros/)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-macros?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-macros?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros/pulls)
-<!-- [![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/tui-macros/ci.yml?style=for-the-badge&logo=github)](https://github.com/joshka/tui-macros/actions/workflows/test.yml) -->
 
 ### tui-markdown
 
@@ -129,38 +61,16 @@
 [![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-markdown?style=for-the-badge&logo=github)](https://github.com/joshka/tui-markdown/issues)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-markdown?style=for-the-badge&logo=github)](https://github.com/joshka/tui-markdown/pulls)
 
-### tui-popup
+### tui-widgets
 
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/tui--popup-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tui-popup)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tui-popup?style=for-the-badge&logo=github)](https://github.com/joshka/tui-popup)
-[![Crates.io Version](https://img.shields.io/crates/v/tui-popup?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-popup)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/tui-popup?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-popup)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/tui-popup/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/tui-popup/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/tui-popup?style=for-the-badge&logo=rust)](https://docs.rs/crate/tui-popup/)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-popup?style=for-the-badge&logo=github)](https://github.com/joshka/tui-popup/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-popup?style=for-the-badge&logo=github)](https://github.com/joshka/tui-popup/pulls)
-
-### tui-prompts
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/tui--prompts-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tui-prompts)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tui-prompts?style=for-the-badge&logo=github)](https://github.com/joshka/tui-prompts)
-[![Crates.io Version](https://img.shields.io/crates/v/tui-prompts?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-prompts)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/tui-prompts?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-prompts)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/tui-prompts/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/tui-prompts/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/tui-prompts?style=for-the-badge&logo=rust)](https://docs.rs/crate/tui-prompts/)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-prompts?style=for-the-badge&logo=github)](https://github.com/joshka/tui-prompts/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-prompts?style=for-the-badge&logo=github)](https://github.com/joshka/tui-prompts/pulls)
-
-### tui-scrollview
-
-[![Static Badge](https://img.shields.io/badge/Repo-joshka/tui--scrollview-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tui-scrollview)
-[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tui-scrollview?style=for-the-badge&logo=github)](https://github.com/joshka/tui-scrollview)
-[![Crates.io Version](https://img.shields.io/crates/v/tui-scrollview?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-scrollview)
-[![Crates.io Total Downloads](https://img.shields.io/crates/d/tui-scrollview?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-scrollview)  \
-[![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/tui-scrollview/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/tui-scrollview/actions/workflows/test.yml)
-[![Docs.rs](https://img.shields.io/docsrs/tui-scrollview?style=for-the-badge&logo=rust)](https://docs.rs/crate/tui-scrollview/)
-[![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-scrollview?style=for-the-badge&logo=github)](https://github.com/joshka/tui-scrollview/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-scrollview?style=for-the-badge&logo=github)](https://github.com/joshka/tui-scrollview/pulls)
+[![Static Badge](https://img.shields.io/badge/Repo-joshka/tui--widgets-blue?style=for-the-badge&logo=github)](https://github.com/joshka/tui-widgets)
+[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/tui-widgets?style=for-the-badge&logo=github)](https://github.com/joshka/tui-widgets)
+[![Crates.io Version](https://img.shields.io/crates/v/tui-widgets?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-widgets)
+[![Crates.io Total Downloads](https://img.shields.io/crates/d/tui-widgets?style=for-the-badge&logo=rust&color=blue)](https://github.com/crates/tui-widgets)  \
+[![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/tui-widgets/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/tui-widgets/actions/workflows/test.yml)
+[![Docs.rs](https://img.shields.io/docsrs/tui-widgets?style=for-the-badge&logo=rust)](https://docs.rs/crate/tui-widgets/)
+[![GitHub Issues](https://img.shields.io/github/issues/joshka/tui-widgets?style=for-the-badge&logo=github)](https://github.com/joshka/tui-widgets/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/tui-widgets?style=for-the-badge&logo=github)](https://github.com/joshka/tui-widgets/pulls)
 
 ## Apps
 
@@ -184,6 +94,13 @@
 [![GitHub CI](https://img.shields.io/github/actions/workflow/status/joshka/nitidus/test.yml?style=for-the-badge&logo=github)](https://github.com/joshka/nitidus/actions/workflows/test.yml)
 [![GitHub Issues](https://img.shields.io/github/issues/joshka/nitidus?style=for-the-badge&logo=github)](https://github.com/joshka/nitidus/issues)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/nitidus?style=for-the-badge&logo=github)](https://github.com/joshka/nitidus/pulls)
+
+### pong-russh
+
+[![Static Badge](https://img.shields.io/badge/Repo-joshka/pong--russh-blue?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh)
+[![GitHub Repo stars](https://img.shields.io/github/stars/joshka/pong-russh?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh)
+[![GitHub Issues](https://img.shields.io/github/issues/joshka/pong-russh?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/joshka/pong-russh?style=for-the-badge&logo=github)](https://github.com/joshka/pong-russh/pulls)
 
 ### tooters
 
