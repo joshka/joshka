@@ -36,5 +36,4 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          repositories_skipped:
-            sonarr/sonarr
+          plugin_notable_skipped: sonarr/sonarr
