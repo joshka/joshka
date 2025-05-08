@@ -87,6 +87,16 @@ Tui-widgets is a loose collection of widgets for ratatui.
 [![Crate](https://img.shields.io/crates/v/tui-scrollview?style=flat-square&logo=rust&color=blue&label=tui-scrollview)](https://crates.io/crates/tui-scrollview)
 [![Downloads](https://img.shields.io/crates/d/tui-scrollview?style=flat-square&logo=rust&color=blue)](https://crates.io/crates/tui-scrollview)
 
+Tui-equalizer is a library for creating equalizer bars in terminal user interfaces.
+
+[![Repo](https://img.shields.io/badge/Repo-joshka/tui--equalizer-blue?style=flat-square&logo=github)](https://github.com/joshka/tui-equalizer)
+[![Stars](https://img.shields.io/github/stars/joshka/tui-equalizer?style=flat-square&logo=github)](https://github.com/joshka/tui-equalizer)
+[![Issues](https://img.shields.io/github/issues/joshka/tui-equalizer?style=flat-square&logo=github)](https://github.com/joshka/tui-equalizer/issues)
+[![PRs](https://img.shields.io/github/issues-pr/joshka/tui-equalizer?style=flat-square&logo=github)](https://github.com/joshka/tui-equalizer/pulls)
+[![Build](https://img.shields.io/github/actions/workflow/status/joshka/tui-equalizer/test.yml?style=flat-square&logo=github)](https://github.com/joshka/tui-equalizer/actions/workflows/test.yml)  \
+[![Crate](https://img.shields.io/crates/v/tui-equalizer?style=flat-square&logo=rust&color=blue&label=tui-equalizer)](https://crates.io/crates/tui-equalizer)
+[![Downloads](https://img.shields.io/crates/d/tui-equalizer?style=flat-square&logo=rust&color=blue)](https://crates.io/crates/tui-equalizer)
+
 Line-clipping is a small utility Rust crate for clipping lines to a given rectangle.
 
 [![Repo](https://img.shields.io/badge/Repo-joshka/line--clipping-blue?style=flat-square&logo=github)](https://github.com/joshka/line-clipping)
@@ -95,6 +105,16 @@ Line-clipping is a small utility Rust crate for clipping lines to a given rectan
 [![PRs](https://img.shields.io/github/issues-pr/joshka/line-clipping?style=flat-square&logo=github)](https://github.com/joshka/line-clipping/pulls)
 [![Crate](https://img.shields.io/crates/v/line-clipping?style=flat-square&logo=rust&color=blue&label=line-clipping)](https://crates.io/crates/line-clipping)
 [![Downloads](https://img.shields.io/crates/d/line-clipping?style=flat-square&logo=rust&color=blue)](https://crates.io/crates/line-clipping)
+
+Webfinger-rs is a Rust library for the Webfinger protocol.
+
+[![Repo](https://img.shields.io/badge/Repo-joshka/webfinger--rs-blue?style=flat-square&logo=github)](https://github.com/joshka/webfinger-rs)
+[![Stars](https://img.shields.io/github/stars/joshka/webfinger-rs?style=flat-square&logo=github)](https://github.com/joshka/webfinger-rs)
+[![Issues](https://img.shields.io/github/issues/joshka/webfinger-rs?style=flat-square&logo=github)](https://github.com/joshka/webfinger-rs/issues)
+[![PRs](https://img.shields.io/github/issues-pr/joshka/webfinger-rs?style=flat-square&logo=github)](https://github.com/joshka/webfinger-rs/pulls)
+[![Build](https://img.shields.io/github/actions/workflow/status/joshka/webfinger-rs/test.yml?style=flat-square&logo=github)](https://github.com/joshka/webfinger-rs/actions/workflows/test.yml)  \
+[![Crate](https://img.shields.io/crates/v/webfinger-rs?style=flat-square&logo=rust&color=blue&label=webfinger-rs)](https://crates.io/crates/webfinger-rs)
+[![Downloads](https://img.shields.io/crates/d/webfinger-rs?style=flat-square&logo=rust&color=blue)](https://crates.io/crates/webfinger-rs)
 
 ## Apps
 
